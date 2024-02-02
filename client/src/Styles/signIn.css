@@ -1,0 +1,134 @@
+.containerSignIn {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-image: url('./images/shu-Tunisia-SidiBouSaid-760300645-1440x823.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  box-shadow: 7px 5px 8px rgba(55, 54, 54, 0.25);
+  width: 100%;
+  height: 88vh;
+}
+
+.signInFormContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  min-height: auto;
+  width: 50vh;
+  background: rgba(245, 245, 245, 0.73);
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 20px;
+  padding: 2%;
+}
+
+.formSignIn {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: flex-start;
+  height: auto;
+  width: auto;
+  gap: 25px;
+  padding: 10px;
+  width: 100%;
+}
+
+.titleSignIn {
+  font-family: lancelot;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  color: #696969;
+  width: 100%;
+}
+
+.titleSignIn h1 {
+  font-family: lancelot;
+  font-weight: bolder;
+  color: black;
+}
+
+.inputEmailSignIn {
+  border: none;
+  outline: none;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  width: 90%;
+}
+
+.formSignIn input {
+  border: none;
+  border-bottom: 2px solid black;
+  background-color: transparent;
+  outline: none;
+  width: 100%;
+  font-size: 24x;
+  cursor: pointer;
+}
+
+
+.formSignIn label {
+  font-size: 18px;
+  font-weight: 400;
+}
+
+.inputPassword {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+
+.passwordVisibilite {
+  display: flex;
+  flex-direction: row;
+}
+
+.visibilite {
+  position: relative;
+  cursor: pointer;
+}
+
+.buttonSubmitSignIn {
+  height: 7vh;
+  width: 100%;
+  font-size: 18px;
+  border-radius: 30px;
+  outline: none;
+  border: none;
+  padding: 10px;
+}
+
+.buttonSubmitSignIn:hover {
+  background-color: rgb(135, 206, 235);
+  color: white;
+}
+
+.rememberPassword {
+  display: grid;
+  grid-template-columns: 25px auto;
+  font-size: 15px;
+  position: absolute;
+}
+
+.rememberPassword label {
+  font-size: 18px;
+  margin-left: 10px;
+  position: relative;
+  left: 3%;
+}
+
+.forgetpassword {
+  text-decoration: none;
+  font-size: 20px;
+  color: black;
+  position: relative;
+}
+
+.forgetpassword :hover {
+  color: blueviolet;
+}

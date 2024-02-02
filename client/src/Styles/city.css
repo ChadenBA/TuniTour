@@ -1,0 +1,219 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;1,100;1,900&family=Signika:wght@300;400&display=swap');
+
+/*************************************************************************************************************************************************************************************/
+/**************Cities******************/
+.bg-image {
+  position: relative;
+  width: 100%;
+  height: 60vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-image: url("../Styles//images/haythem-gataa-NULfCuLFTLg-unsplash.jpg");
+}
+
+.HeaderCities {
+  position: relative;
+  width: 100%;
+  height: auto;
+  border-bottom: 10px solid burlywood;
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+
+
+.content-bg-image {
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+  flex-direction: column;
+  color: white;
+  margin-left: 20%;
+  width: 70%;
+}
+
+.content-bg-image h1 {
+  font-size: 60px;
+  margin-bottom: 0px;
+  margin: 10%;
+  margin-bottom: 2%;
+
+}
+
+
+
+.content-bg-image p {
+  font-size: 20px;
+  width: 70%;
+  padding-bottom: 10px;
+  text-align: start;
+  margin-left: 10%;
+  z-index: 35px;
+}
+
+
+
+
+.cities-container {
+  margin: 1%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.cities-container p {
+  margin-left: 5%;
+  margin-right: 5%;
+  margin-top: 1%;
+  font-family: Signika;
+
+}
+
+.cities-container img {
+  height: 60vh;
+  width: 60vh;
+}
+
+.all-cities {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+}
+
+.card-container {
+  height: auto;
+  width: 300px;
+  overflow: hidden;
+  border-radius: 20px;
+  cursor: pointer;
+  box-shadow: 0 7px 7px rgba(0, 0, 0, 0.4);
+  margin: 10px;
+  background-color: white;
+}
+
+.bg-color {
+  background-color: white;
+}
+
+.card-container img {
+  object-fit: cover;
+  transition: all 0.5s ease;
+  height: 340px;
+}
+
+.card-content {
+  width: auto;
+  margin: 5px;
+}
+
+.card-content h3 {
+  color: rgb(50, 50, 50);
+  padding: 5px;
+  margin-left: 15px;
+  padding-left: 15px;
+  border-left: 3px solid rgb(50, 50, 50);
+}
+
+
+
+
+
+/*************************************************************************************************************************************************************************************/
+/***************City*****************************/
+.HeaderCity {
+  position: relative;
+  width: 100%;
+  height: 50vh;
+  border-bottom: 10px solid burlywood;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.content-bg-image-city {
+  width: 50vh;
+  height: 25vh;
+  justify-content: center;
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  color: white;
+}
+
+.cityDescription {
+  margin: 2%;
+  padding: 20px;
+  box-shadow: 8px 10px 30px rgba(55, 54, 54, 0.25);
+  line-height: 1.8;
+  word-spacing: 5px;
+  font-family: Signika;
+}
+
+.cityDescription span {
+  text-transform: uppercase;
+}
+
+.swiper-city-imgs {
+  width: 70%;
+  padding: 15px;
+}
+
+@media screen and (max-width :1450px) {
+  .swiper-city-imgs {
+    width: 100%;
+    padding: 15px;
+  }
+  .imges-places img {
+    height: 40vh;
+    width: 100%;
+  }
+}
+
+.swiper-city-imgs-container {
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+
+}
+
+.cityPlaces {
+  padding: 10px;
+  margin: 10px;
+
+}
+
+.h4-city {
+  margin-left: 30px;
+}
+
+.imges-places {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.imges-places img {
+  height: 60vh;
+  width: 90%;
+}
+
+.print-places-cities {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+  margin-left: 30px;
+  margin-bottom: 30px;
+}

@@ -1,0 +1,180 @@
+.containerSignUp {
+  width: 100%;
+  height: auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 30px;
+  background-image: url("../Styles//images/shu-Tunisia-SidiBouSaid-760300645-1440x823.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.containerSignUp h1 {
+  font-family: lancelot;
+  margin: 20px;
+  margin-top: 25px;
+  font-weight: bolder;
+}
+
+.containerSignUp span {
+  margin: 15px;
+  margin-top: 0;
+  font-size: large;
+  color: #696969;
+  font-weight: lighter;
+}
+
+.formContainer {
+  height: auto;
+  width: auto;
+  padding: 25px;
+  background-color: #C0C0C0;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  background: rgba(255, 255, 255, .7);
+  box-shadow: 7px 5px 8px rgba(55, 54, 54, 0.25);
+  border-radius: 10px;
+}
+
+.css-13cymwt-control,
+.css-t3ipsp-control {
+  width: 30vh;
+}
+
+.inputs-signup {
+  width: auto;
+  height: auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.FLname,
+.passwordT,
+.adrNation,
+.telAge {
+  display: flex;
+  flex-direction: row;
+  gap: 7vh;
+  flex-wrap: wrap;
+  width: 100%;
+}
+
+.formContainer input {
+  width: 100%;
+  height: 4vh;
+  border: none;
+  border-bottom: 2px solid black;
+  margin-bottom: 15px;
+  font-size: 15px;
+  background-color: transparent;
+  transition: 0.5s ease-in-out;
+  outline: none;
+}
+
+.selectCountry {
+  width: 30vh;
+}
+
+.formContainer label {
+  font-size: 18px;
+  font-weight: 400;
+}
+
+.inputPart {
+  display: flex;
+  flex-direction: column;
+  width: 30vh;
+
+}
+
+.inputEmail input {
+  width: auto;
+  font-size: 15px;
+}
+
+strong {
+  color: rgb(189, 183, 107);
+}
+
+.inputPasswordContent {
+  display: flex;
+}
+
+.inputPasswordContent #visibiliteSignUp {
+  position: relative;
+}
+
+.inputPasswordContent #visibiliteSignUpAgain {
+  position: relative;
+}
+
+.btns {
+  width: 40vh;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.buttonSubmitSignUp {
+  width: 60%;
+  height: 5vh;
+  border-radius: 5px;
+  background-color: white;
+  border: none;
+  transition: all 0.5s ease-in-out;
+  margin: 10px;
+  font-size: 20px;
+}
+
+.buttonSubmitSignUp:hover {
+  background-color: #1E90FF;
+  color: whitesmoke;
+}
+
+.formContainer input:required:invalid,
+.formContainer input:focus:invalid {
+  border-color: red;
+}
+
+.formContainer input:required:valid {
+  border-color: green;
+}
+
+@media screen and (max-width :1250px) {
+  .inputPart {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    padding: 10px;
+  }
+
+  .FLname,
+  .passwordT,
+  .adrNation,
+  .telAge {
+    gap: 0vh;
+  }
+}
+
+.inputEmail input {
+  width: 100%;
+}
+
+.inputEmail {
+  width: 100%;
+  padding: 10px;
+}
+
+.selectCountry {
+  width: 100%;
+  position: relative;
+}

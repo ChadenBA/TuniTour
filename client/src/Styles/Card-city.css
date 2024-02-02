@@ -1,0 +1,56 @@
+.container-search-card {
+  width: 35vh;
+  height: auto;
+  display: flex;
+  user-select: none;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.card-box-city {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-wrap: wrap;
+  flex-direction: row;
+  user-select: none;
+  box-shadow: 2px 7px 7px rgba(0, 0, 0, 0.3);
+  width: 35vh;
+}
+
+.card-city {
+  width: 35vh;
+  height: auto;
+  overflow: hidden;
+  position: relative;
+}
+
+.card-city img {
+  width: 100%;
+  object-fit: cover;
+  transition: all 0.5s ease;
+  height: 25vh;
+}
+
+.card-city .card-content-city {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: auto;
+  color: gray;
+
+  font-size: 18px;
+  overflow: hidden;
+  text-transform: uppercase;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.card-city .card-content-city h4 {
+
+  padding: 15px;
+  margin: 5px;
+}

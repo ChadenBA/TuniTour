@@ -1,0 +1,153 @@
+.home-Header.home-Header {
+    width: 100%;
+    height: 80vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url("../Styles/images/image.png");
+    position: relative;
+    background-position: center;
+    top: 1%;
+}
+
+.btn-categories {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    background: linear-gradient(white, rgb(135, 206, 235));
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
+}
+
+.btn-categories .swiper-button-next,
+.btn-categories .swiper-button-prev {
+    display: none;
+}
+
+.btn-categories button {
+    width: 150px;
+    height: 10vh;
+    background-color: transparent;
+    border: none;
+    font-weight: 450;
+    text-transform: capitalize;
+    font-size: 18px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.btn-categories button:hover {
+    background-color: white;
+    color: black;
+    transition: 0.6s ease-in-out;
+}
+
+.print-places-home {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-items: center;
+    width: 100%;
+    padding: 10px;
+    padding-left: 2%;
+    padding-right: 2%;
+}
+
+.swiper-container-cards {
+    height: auto;
+    width: 100%
+}
+
+.title-siwper {
+    color: black;
+    margin-top: 2vh;
+    font-weight: 450;
+    text-align: start;
+    background-color: rgb(228, 236, 238);
+    padding: 25px;
+}
+
+.agences-Home {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2%;
+
+}
+
+.swiper-button-next,
+.swiper-button-prev {
+    background-color: #e2e4e6;
+    min-height: 6vh;
+    min-width: 6vh;
+    border-radius: 50%;
+    font-size: 10px;
+
+}
+
+.swiper-button-next::after,
+.swiper-button-prev::after {
+    color: rgb(117, 117, 117);
+}
+
+.element.style {
+    padding-left: 2%;
+}
+
+.Container-for-all {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container-gallery {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin: 40px 20px 0 20px;
+    width: 70%;
+}
+
+.gallery-title {
+    width: 50%;
+    padding-bottom: 30px;
+
+}
+
+.gallery-title h4 {
+    font-size: 2.5em;
+    font-weight: bolder;
+    border-bottom: 3px solid #222;
+    padding-bottom: 30px;
+}
+
+.container-gallery .gallery-title span {
+    font-weight: 100;
+}
+
+.container-gallery .box-gallery {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+
+}
+
+.container-gallery .box-gallery .dream-gallery {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 32.5%;
+
+
+}
+
+.dream-gallery img {
+    width: 95%;
+    padding-bottom: 5px;
+    border-radius: 5px;
+}
+
+.swiper-slide .swiper-slide-active {
+    width: 400px;
+}

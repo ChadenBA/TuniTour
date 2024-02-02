@@ -1,0 +1,136 @@
+
+.styles_login_container {
+  background-image: url("../Styles/images/gettyimages-482713673-612x612.jpg");
+  background-position: center;
+  background-size: cover;
+  height: 93vh;
+  padding: 145px;
+  background-repeat: no-repeat;
+}
+
+.styles_login_form h1 {
+  text-align: center;
+  color: #0B3B5E;
+  margin-top: 1rem;
+}
+
+.forgetpwd {
+  text-decoration: none;
+  font-size: 20px;
+  color: black;
+  position: relative;
+  margin: 10px;
+}
+
+.styles_login_form {
+  width: 40rem;
+  height: 100%;
+  padding: 3rem;
+  margin: 0 auto;
+  background: rgba(245, 245, 245, 0.73);
+  border-radius: 6px;
+  font: inherit;
+  border: 1px solid rgb(184, 184, 184);
+  color: rgb(61, 58, 58);
+}
+
+label {
+  margin-bottom: 0.5rem;
+  display: block;
+  padding-top: 10px;
+}
+
+input {
+  border: none;
+  background-color: transparent;
+  outline: none;
+  grid-column-start: 1;
+  grid-column-end: 2;
+  display: flex;
+  flex-direction: column;
+  height: 50px;
+  border: none;
+  border-bottom: 2px solid black;
+
+  outline: none;
+  width: 80%;
+}
+
+
+.btn {
+  border: none;
+  border-radius: 20px;
+  height: 40px;
+  width: 70%;
+  margin-left: 15%;
+  margin-top: 25px;
+  background: linear-gradient(to right, #0B3B5E, #0981cc);
+  color: white;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.btn:hover {
+  background: linear-gradient(to right, #0A2C46, #003B5E);
+  border-color: #0A2C46;
+}
+.checkbox {
+  height: 20px;
+  border-radius: 3px;
+  width: 20px;
+  margin-top: -2px;
+}
+
+.logo-tunitour {
+  width: 110px;
+  height: 110px;
+  margin: auto;
+  display: block;
+}
+
+.logo-bckg {
+  width: 110px;
+  height: 110px;
+  border-radius: 50%;
+  color: #0B3B5E;
+  background-color: #0B3B5E;
+  margin: auto;
+  display: block;
+}
+.styles_reset_form{
+  width: 40rem;
+  height: 50%;
+  padding: 3rem;
+  margin: 0 auto;
+  background: rgba(245, 245, 245, 0.73);
+  border-radius: 6px;
+  font: inherit;
+  border: 1px solid rgb(184, 184, 184);
+  color: rgb(61, 58, 58);
+
+}
+
+.butnpart{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+/* Responsive styles */
+@media (max-width: 1200px) {
+  .styles_login_container {
+      padding: 45px;
+      height:auto;
+  }
+
+  .styles_login_form {
+      width: 100%;
+      height: 100%;
+  }
+}
+
+@media (max-width: 660px) {
+  .styles_login_form {
+      width: 90%;
+      padding: 2rem;
+  }
+}

@@ -1,0 +1,128 @@
+.forgetPass{
+    position: relative;
+    margin-top: 10%;
+    margin-left: 40%;
+    width: 40vh;
+    height: 40vh;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content:center;
+    align-items:flex-start;
+    box-shadow:1px 5px 8px rgba(55, 54, 54, 0.25);
+    border-radius:10px ;
+    color:rgb(135,206,235);
+
+    
+}
+.forgetPass label{
+    color: black;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 10%;
+    margin-left: 1%;
+    
+
+}
+.forgetPass .fa-less-than{
+    margin-left: 1%;
+    
+
+}
+.forgetPassEmail{
+    
+    width: 90%;
+    height: 4vh;
+    border: none;
+    border-bottom: 2px solid black ;
+    margin-bottom: 15px;
+    font-size: 20px;
+    background-color: transparent;
+    transition: 0.5s ease-in-out;
+    outline: none;
+    margin: 5px;
+    
+}
+.btnFP{
+    width: 70%;
+    margin:10% ;
+    border-radius:10px ;
+    height: 10%;
+    color:black;
+    border: none;
+}
+.btnFP:hover{
+   color: black;
+   background-color: rgb(135,206,235);
+   
+   
+}
+.back{
+    display: flex;
+    flex-direction: row;
+}
+.back h3{
+   top:14%;
+   left: 8%;
+    position: absolute;
+}
+.resetPassContainer{
+    position: relative;
+    margin: auto;
+    width: 50vh;
+    height: auto;
+    margin-top: 10%;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    align-items:center;
+    box-shadow:1px 5px 8px rgba(55, 54, 54, 0.25);
+    border-radius:10px ;
+    color:black;
+}
+.resetPassContainer label{
+    color:black;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 10%;
+}
+.resetPass{
+    display: flex;
+    flex-direction: column;
+    width: 90%;
+    height: 4vh;
+    border: none;
+    border-bottom: 2px solid black ;
+    margin-bottom: 15px;
+    font-size: 20px;
+    background-color: transparent;
+    transition: 0.5s ease-in-out;
+    outline: none;
+    margin: 5px;
+}
+.btnRP{
+    width: 20vh;
+    margin: 10%; 
+    min-height: 5vh;
+    border-radius:10px ;
+    height: 10%;
+    color:black;
+    border: none;
+}
+.btnRP:hover{
+   color: white;
+   background-color: rgb(135,206,235);
+   
+}
+.divRP{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.divRP_pass1{
+    display: flex;
+    flex-direction: row;
+}

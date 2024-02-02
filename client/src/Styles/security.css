@@ -1,0 +1,196 @@
+.securityRigthBar{
+  margin: 10px;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.securityBody{
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.changePassword{
+  box-shadow:7px 7px 19px rgba(55, 54, 54, 0.25);
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  padding: 30px;
+}
+.changePassword input{
+  border: none;
+  border-bottom: 1px solid black;
+  width: 35vh;
+  outline: none;
+
+}
+.changePassword button{
+  border-radius: 30px;
+  width: 150px;
+  height: 5vh;
+  margin-left: 3%;
+  position: relative;
+}
+.changePassword input::placeholder{
+  color: rgb(128,128,128);
+}
+.changeEmail{
+  box-shadow:7px 7px 19px rgba(55, 54, 54, 0.25);
+  border-radius: 10px;
+  padding: 30px;
+
+}
+.changeEmail input{
+  border: none;
+  border-bottom: 1px solid black;
+  width: 35vh;
+  outline: none;
+
+}
+.changeEmail button{
+  border-radius: 30px;
+  height: 5vh;
+  margin-left: 1%;
+  position: relative;
+  width: 15vh;
+
+}
+.code{
+  box-shadow:7px 7px 19px rgba(55, 54, 54, 0.25);
+  border-radius: 10px;
+  padding: 30px;
+}
+.code input{
+  border: none;
+  border-bottom: 1px solid black;
+  width: 20vh;
+  outline: none;
+}
+.code button{
+  border-radius: 30px;
+  height: 5vh;
+  margin-left: 1%;
+  position: relative;
+  width: 15vh;
+}
+.pass-security{
+  display: flex;
+}
+
+
+/*******************************************admin scrutity******************************/
+.securityRigthBar{
+  margin: 10px;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.securityBody{
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.adminchangePassword{
+  box-shadow:7px 7px 19px rgba(55, 54, 54, 0.25);
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  padding: 30px;
+}
+.adminchangePassword input{
+  border: none;
+  border-bottom: 1px solid black;
+  width: 35vh;
+  outline: none;
+
+}
+.adminchangePassword button{
+  border-radius: 30px;
+  width: 150px;
+  height: 5vh;
+  margin-left: 3%;
+  position: relative;
+}
+
+
+.adminchangePassword button {
+  border: none;
+  border-radius: 20px;
+  height: 40px;
+  width: 15%;
+  background: linear-gradient(to right, #0B3B5E, #0981cc);
+  color: white;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.adminchangePassword button:hover , .changeEmail button:hover {
+  background: linear-gradient(to right, #537fa1, #003B5E);
+  border-color: #0A2C46;
+}
+.adminchangePassword input::placeholder{
+  color: rgb(128,128,128);
+}
+.changeEmail{
+  box-shadow:7px 7px 19px rgba(55, 54, 54, 0.25);
+  border-radius: 10px;
+  padding: 30px;
+
+}
+.changeEmail input{
+  border: none;
+  border-bottom: 1px solid black;
+  width: 35vh;
+  outline: none;
+
+}
+.changeEmail button{
+  border-radius: 30px;
+  height: 5vh;
+  margin-left: 1%;
+  position: relative;
+  width: 15vh;
+  background: linear-gradient(to right, #0B3B5E, #0981cc);
+  color: white;
+  border: none;
+  font-weight: bold;
+  
+
+}
+
+.admincode{
+  box-shadow:7px 7px 19px rgba(55, 54, 54, 0.25);
+  border-radius: 10px;
+  padding: 30px;
+}
+.admincode input{
+  border: none;
+  border-bottom: 1px solid black;
+  width: 20vh;
+  outline: none;
+}
+.admincode button{
+  border-radius: 30px;
+  height: 5vh;
+  margin-left: 1%;
+  position: relative;
+  width: 15vh;
+  background: linear-gradient(to right, #0B3B5E, #0981cc);
+  color: white;
+  border: none;
+  color: white;
+  font-weight: bold;
+  cursor: pointer;
+}
+.admincode button:hover {
+  background: linear-gradient(to right, #537fa1, #003B5E);
+  border-color: #0A2C46;
+}
+.pass-security{
+  display: flex;
+}

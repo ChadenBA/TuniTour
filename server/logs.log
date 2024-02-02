@@ -1,0 +1,914 @@
+{"level":30,"time":1687395443230,"action":"access home page"}
+{"level":30,"time":1687395452776,"action":"access places page"}
+{"level":30,"time":1687395517239,"action":"access Dar Essid Museum page","idPlace":"6474c012b1dea38fb6be409b","paceName":"dar essid museum"}
+{"level":30,"time":1687399222820,"action":"access home page"}
+{"level":30,"time":1687399224798,"action":"send places with categories","placeName":"the ain draham mountains","categoryName":"rural"}
+{"level":30,"time":1687399224802,"action":"send places with categories","placeName":"the ribat of sousse","categoryName":"culturel"}
+{"level":30,"time":1687399224807,"action":"send places with categories","placeName":"the ribat of sousse","categoryName":"adventure"}
+{"level":30,"time":1687399224811,"action":"send places with categories","placeName":"dar essid museum","categoryName":"culturel"}
+{"level":30,"time":1687399224816,"action":"send places with categories","placeName":"port el kantaoui","categoryName":"training"}
+{"level":30,"time":1687399224819,"action":"send places with categories","placeName":"port el kantaoui","categoryName":"adventure"}
+{"level":30,"time":1687399224823,"action":"send places with categories","placeName":"skifa el kahla","categoryName":"culturel"}
+{"level":30,"time":1687399224827,"action":"send places with categories","placeName":"skifa el kahla","categoryName":"training"}
+{"level":30,"time":1687399224831,"action":"send places with categories","placeName":"zitouna mosque","categoryName":"culturel"}
+{"level":30,"time":1687399224836,"action":"send places with categories","placeName":"zitouna mosque","categoryName":"religious"}
+{"level":30,"time":1687399224841,"action":"send places with categories","placeName":"la galite islands","categoryName":"nature"}
+{"level":30,"time":1687399224844,"action":"Top likes number 5","placeName":"dar essid museum","likesNumber":"5"}
+{"level":30,"time":1687399224850,"action":"send places with categories","placeName":"la galite islands","categoryName":"adventure"}
+{"level":30,"time":1687399224853,"action":"send places with categories","placeName":"tabarka genoese fort","categoryName":"rural"}
+{"level":30,"time":1687399224857,"action":"send places with categories","placeName":"tabarka genoese fort","categoryName":"nature"}
+{"level":30,"time":1687399227244,"action":"access sousse page","idCity":"645e15ba385666e8ea9fc39e","cityName":"sousse"}
+{"level":30,"time":1687399229865,"action":"send places with categories","placeName":"the ain draham mountains","categoryName":"rural"}
+{"level":30,"time":1687399229867,"action":"send places with categories","placeName":"the ribat of sousse","categoryName":"culturel"}
+{"level":30,"time":1687399229868,"action":"send places with categories","placeName":"the ribat of sousse","categoryName":"adventure"}
+{"level":30,"time":1687399229870,"action":"send places with categories","placeName":"dar essid museum","categoryName":"culturel"}
+{"level":30,"time":1687399229875,"action":"send places with categories","placeName":"port el kantaoui","categoryName":"training"}
+{"level":30,"time":1687399229877,"action":"send places with categories","placeName":"port el kantaoui","categoryName":"adventure"}
+{"level":30,"time":1687399229881,"action":"send places with categories","placeName":"skifa el kahla","categoryName":"culturel"}
+{"level":30,"time":1687399229884,"action":"send places with categories","placeName":"skifa el kahla","categoryName":"training"}
+{"level":30,"time":1687399229889,"action":"send places with categories","placeName":"zitouna mosque","categoryName":"culturel"}
+{"level":30,"time":1687399229893,"action":"send places with categories","placeName":"zitouna mosque","categoryName":"religious"}
+{"level":30,"time":1687399229896,"action":"send places with categories","placeName":"la galite islands","categoryName":"nature"}
+{"level":30,"time":1687399229900,"action":"Top likes number 5","placeName":"dar essid museum","likesNumber":"5"}
+{"level":30,"time":1687399229907,"action":"send places with categories","placeName":"la galite islands","categoryName":"adventure"}
+{"level":30,"time":1687399229909,"action":"send places with categories","placeName":"tabarka genoese fort","categoryName":"rural"}
+{"level":30,"time":1687399229911,"action":"send places with categories","placeName":"tabarka genoese fort","categoryName":"nature"}
+{"level":30,"time":1687399230513,"action":"access The Ribat of Sousse page","idPlace":"6474c080b1dea38fb6be40be","paceName":"the ribat of sousse"}
+{"level":30,"time":1687447626404,"action":"send places with categories","placeName":"the ribat of sousse","categoryName":"culturel"}
+{"level":30,"time":1687447626414,"action":"send places with categories","placeName":"the ribat of sousse","categoryName":"adventure"}
+{"level":30,"time":1687447626419,"action":"send places with categories","placeName":"the ain draham mountains","categoryName":"rural"}
+{"level":30,"time":1687447626437,"action":"send places with categories","placeName":"dar essid museum","categoryName":"culturel"}
+{"level":30,"time":1687447626441,"action":"send places with categories","placeName":"port el kantaoui","categoryName":"training"}
+{"level":30,"time":1687447626447,"action":"send places with categories","placeName":"port el kantaoui","categoryName":"adventure"}
+{"level":30,"time":1687447626457,"action":"send places with categories","placeName":"skifa el kahla","categoryName":"culturel"}
+{"level":30,"time":1687447626469,"action":"send places with categories","placeName":"zitouna mosque","categoryName":"religious"}
+{"level":30,"time":1687447626480,"action":"send places with categories","placeName":"skifa el kahla","categoryName":"training"}
+{"level":30,"time":1687447626489,"action":"send places with categories","placeName":"la galite islands","categoryName":"adventure"}
+{"level":30,"time":1687447626496,"action":"send places with categories","placeName":"zitouna mosque","categoryName":"culturel"}
+{"level":30,"time":1687447626504,"action":"send places with categories","placeName":"la galite islands","categoryName":"nature"}
+{"level":30,"time":1687447626507,"action":"Top likes number 5","placeName":"dar essid museum","likesNumber":"5"}
+{"level":30,"time":1687447626519,"action":"send places with categories","placeName":"tabarka genoese fort","categoryName":"rural"}
+{"level":30,"time":1687447626560,"action":"send places with categories","placeName":"tabarka genoese fort","categoryName":"nature"}
+{"level":30,"time":1687447628124,"action":" access activities page"}
+{"level":30,"time":1687447671750,"action":"access camping page","idActivity":"6474c32fb1dea38fb6be4425","activityName":"camping"}
+{"level":30,"time":1687447674789,"action":"access sign in page"}
+{"level":30,"time":1687447693640,"action":"login","idUser":"6485036e2562d8835f4a6d96","userFullName":"flen fouleni","nationality":"algeria"}
+{"level":30,"time":1687447694145,"action":"send places with categories","placeName":"the ain draham mountains","categoryName":"rural"}
+{"level":30,"time":1687447694153,"action":"send places with categories","placeName":"the ribat of sousse","categoryName":"culturel"}
+{"level":30,"time":1687447694164,"action":"send places with categories","placeName":"the ribat of sousse","categoryName":"adventure"}
+{"level":30,"time":1687447694172,"action":"send places with categories","placeName":"dar essid museum","categoryName":"culturel"}
+{"level":30,"time":1687447694190,"action":"send places with categories","placeName":"port el kantaoui","categoryName":"training"}
+{"level":30,"time":1687447694208,"action":"send places with categories","placeName":"skifa el kahla","categoryName":"training"}
+{"level":30,"time":1687447694213,"action":"send places with categories","placeName":"port el kantaoui","categoryName":"adventure"}
+{"level":30,"time":1687447694225,"action":"send places with categories","placeName":"skifa el kahla","categoryName":"culturel"}
+{"level":30,"time":1687447694242,"action":"send places with categories","placeName":"zitouna mosque","categoryName":"culturel"}
+{"level":30,"time":1687447694252,"action":"send places with categories","placeName":"la galite islands","categoryName":"nature"}
+{"level":30,"time":1687447694270,"action":"Top likes number 5","placeName":"dar essid museum","likesNumber":"5"}
+{"level":30,"time":1687447694306,"action":"send places with categories","placeName":"zitouna mosque","categoryName":"religious"}
+{"level":30,"time":1687447694353,"action":"send places with categories","placeName":"la galite islands","categoryName":"adventure"}
+{"level":30,"time":1687447694372,"action":"send places with categories","placeName":"tabarka genoese fort","categoryName":"rural"}
+{"level":30,"time":1687447694379,"action":"send places with categories","placeName":"tabarka genoese fort","categoryName":"nature"}
+{"level":30,"time":1687448901741,"action":"send places with categories","placeName":"the ribat of sousse","categoryName":"culturel"}
+{"level":30,"time":1687448901745,"action":"send places with categories","placeName":"the ain draham mountains","categoryName":"rural"}
+{"level":30,"time":1687448901746,"action":"send places with categories","placeName":"dar essid museum","categoryName":"culturel"}
+{"level":30,"time":1687448901748,"action":"send places with categories","placeName":"the ribat of sousse","categoryName":"adventure"}
+{"level":30,"time":1687448901749,"action":"send places with categories","placeName":"port el kantaoui","categoryName":"training"}
+{"level":30,"time":1687448901756,"action":"send places with categories","placeName":"skifa el kahla","categoryName":"culturel"}
+{"level":30,"time":1687448901757,"action":"send places with categories","placeName":"skifa el kahla","categoryName":"training"}
+{"level":30,"time":1687448901758,"action":"send places with categories","placeName":"zitouna mosque","categoryName":"culturel"}
+{"level":30,"time":1687448901761,"action":"send places with categories","placeName":"port el kantaoui","categoryName":"adventure"}
+{"level":30,"time":1687448901762,"action":"send places with categories","placeName":"zitouna mosque","categoryName":"religious"}
+{"level":30,"time":1687448901763,"action":"send places with categories","placeName":"la galite islands","categoryName":"nature"}
+{"level":30,"time":1687448901765,"action":"Top likes number 5","placeName":"dar essid museum","likesNumber":"5"}
+{"level":30,"time":1687448901766,"action":"send places with categories","placeName":"tabarka genoese fort","categoryName":"rural"}
+{"level":30,"time":1687448901768,"action":"send places with categories","placeName":"la galite islands","categoryName":"adventure"}
+{"level":30,"time":1687448901770,"action":"send places with categories","placeName":"tabarka genoese fort","categoryName":"nature"}
+{"level":30,"time":1687448902643,"action":"access home page","idUser":"6485036e2562d8835f4a6d96","userFullName":"flen fouleni"}
+{"level":30,"time":1687450838219,"action":"access golf page","idUser":"6485036e2562d8835f4a6d96","userFullName":"flen fouleni","idActivity":"645e442d8eb9155ecc07e05c","activityName":"golf"}
+{"level":30,"time":1687450841685,"action":"send places with categories","placeName":"the ribat of sousse","categoryName":"culturel"}
+{"level":30,"time":1687450841687,"action":"send places with categories","placeName":"the ain draham mountains","categoryName":"rural"}
+{"level":30,"time":1687450841689,"action":"send places with categories","placeName":"port el kantaoui","categoryName":"training"}
+{"level":30,"time":1687450841690,"action":"send places with categories","placeName":"the ribat of sousse","categoryName":"adventure"}
+{"level":30,"time":1687450841693,"action":"send places with categories","placeName":"dar essid museum","categoryName":"culturel"}
+{"level":30,"time":1687450841695,"action":"send places with categories","placeName":"port el kantaoui","categoryName":"adventure"}
+{"level":30,"time":1687450841702,"action":"send places with categories","placeName":"skifa el kahla","categoryName":"training"}
+{"level":30,"time":1687450841703,"action":"send places with categories","placeName":"zitouna mosque","categoryName":"religious"}
+{"level":30,"time":1687450841704,"action":"send places with categories","placeName":"zitouna mosque","categoryName":"culturel"}
+{"level":30,"time":1687450841705,"action":"send places with categories","placeName":"skifa el kahla","categoryName":"culturel"}
+{"level":30,"time":1687450841707,"action":"send places with categories","placeName":"la galite islands","categoryName":"nature"}
+{"level":30,"time":1687450841713,"action":"send places with categories","placeName":"la galite islands","categoryName":"adventure"}
+{"level":30,"time":1687450841714,"action":"Top likes number 5","placeName":"dar essid museum","likesNumber":"5"}
+{"level":30,"time":1687450841715,"action":"send places with categories","placeName":"tabarka genoese fort","categoryName":"nature"}
+{"level":30,"time":1687450841716,"action":"send places with categories","placeName":"tabarka genoese fort","categoryName":"rural"}
+{"level":30,"time":1687450843888,"action":" sousse page","idUser":"6485036e2562d8835f4a6d96","userFullName":"flen fouleni","idCity":"645e15ba385666e8ea9fc39e","cityName":"sousse"}
+{"level":30,"time":1687450850949,"action":"add a rate to the ribat of sousse page","idUser":"6485036e2562d8835f4a6d96","userFullName":"flen fouleni","idPlace":"6474c080b1dea38fb6be40be","placeName":"the ribat of sousse"}
+{"level":30,"time":1687450861414,"action":"add a rate to the ribat of sousse page","idUser":"6485036e2562d8835f4a6d96","userFullName":"flen fouleni","idPlace":"6474c080b1dea38fb6be40be","placeName":"the ribat of sousse"}
+{"level":30,"time":1687450898715,"action":"add a rate to the ribat of sousse page","idUser":"6485036e2562d8835f4a6d96","userFullName":"flen fouleni","idPlace":"6474c080b1dea38fb6be40be","placeName":"the ribat of sousse"}
+{"level":30,"time":1687450905187,"action":"access The Ribat of Sousse page","idUser":"6485036e2562d8835f4a6d96","userFullName":"flen fouleni","idPlace":"6474c080b1dea38fb6be40be","placeName":"the ribat of sousse"}
+{"level":30,"time":1687450915313,"action":"rate discover tour activity  the ribat of sousse  ","idUser":"6485036e2562d8835f4a6d96","userFullName":"flen fouleni","idPlace":"6485036e2562d8835f4a6d96","placeName":"the ribat of sousse","idActivity":"646f490b85984bddf63bc7c5","activityName":"discover tour"}
+{"level":30,"time":1687450919555,"action":"delete discover tour activity  the ribat of sousse  ","idUser":"6485036e2562d8835f4a6d96","userFullName":"flen fouleni","idPlace":"6485036e2562d8835f4a6d96","placeName":"the ribat of sousse","idActivity":"646f490b85984bddf63bc7c5","activityName":"discover tour"}
+{"level":30,"time":1687450925543,"action":"add the ribat of sousse to bucket list ","idUser":"6485036e2562d8835f4a6d96","userFullName":"flen fouleni","idPlace":"6474c080b1dea38fb6be40be","placeName":"the ribat of sousse"}
+{"level":30,"time":1687450929128,"action":"access profile page","idUser":"6485036e2562d8835f4a6d96","userFullName":"flen fouleni"}
+{"level":30,"time":1687451508617,"action":"access home page","idUser":"6485036e2562d8835f4a6d96","userFullName":"flen fouleni"}
+{"level":30,"time":1687451508889,"action":"send places with categories","placeName":"the ain draham mountains","categoryName":"rural"}
+{"level":30,"time":1687451508893,"action":"send places with categories","placeName":"the ribat of sousse","categoryName":"culturel"}
+{"level":30,"time":1687451508895,"action":"send places with categories","placeName":"the ribat of sousse","categoryName":"adventure"}
+{"level":30,"time":1687451508897,"action":"send places with categories","placeName":"dar essid museum","categoryName":"culturel"}
+{"level":30,"time":1687451508903,"action":"send places with categories","placeName":"port el kantaoui","categoryName":"training"}
+{"level":30,"time":1687451508906,"action":"send places with categories","placeName":"port el kantaoui","categoryName":"adventure"}
+{"level":30,"time":1687451508917,"action":"send places with categories","placeName":"zitouna mosque","categoryName":"culturel"}
+{"level":30,"time":1687451508922,"action":"send places with categories","placeName":"skifa el kahla","categoryName":"training"}
+{"level":30,"time":1687451508925,"action":"send places with categories","placeName":"skifa el kahla","categoryName":"culturel"}
+{"level":30,"time":1687451508927,"action":"send places with categories","placeName":"la galite islands","categoryName":"nature"}
+{"level":30,"time":1687451508928,"action":"send places with categories","placeName":"zitouna mosque","categoryName":"religious"}
+{"level":30,"time":1687451508932,"action":"Top likes number 5","placeName":"dar essid museum","likesNumber":"5"}
+{"level":30,"time":1687451508934,"action":"send places with categories","placeName":"tabarka genoese fort","categoryName":"nature"}
+{"level":30,"time":1687451508935,"action":"send places with categories","placeName":"la galite islands","categoryName":"adventure"}
+{"level":30,"time":1687451508936,"action":"send places with categories","placeName":"tabarka genoese fort","categoryName":"rural"}
+{"level":30,"time":1687452151103,"action":"access home page","idUser":"6485036e2562d8835f4a6d96","userFullName":"flen fouleni"}
+{"level":30,"time":1687452152832,"action":"access profile page","idUser":"6485036e2562d8835f4a6d96","userFullName":"flen fouleni"}
+{"level":30,"time":1687452153462,"action":"access map page","idUser":"6485036e2562d8835f4a6d96","userFullName":"flen fouleni"}
+{"level":30,"time":1687452154640,"action":"access places page","idUser":"6485036e2562d8835f4a6d96","userFullName":"flen fouleni"}
+{"level":30,"time":1687452155062,"action":"access cities page","idUser":"6485036e2562d8835f4a6d96","userFullName":"flen fouleni"}
+{"level":30,"time":1687452293946,"action":"access home page","idUser":"6485036e2562d8835f4a6d96","userFullName":"flen fouleni"}
+{"level":30,"time":1687452294032,"action":"send places with categories","placeName":"the ain draham mountains","categoryName":"rural"}
+{"level":30,"time":1687452294036,"action":"send places with categories","placeName":"the ribat of sousse","categoryName":"culturel"}
+{"level":30,"time":1687452294040,"action":"send places with categories","placeName":"the ribat of sousse","categoryName":"adventure"}
+{"level":30,"time":1687452294045,"action":"send places with categories","placeName":"dar essid museum","categoryName":"culturel"}
+{"level":30,"time":1687452294052,"action":"send places with categories","placeName":"port el kantaoui","categoryName":"training"}
+{"level":30,"time":1687452294058,"action":"send places with categories","placeName":"port el kantaoui","categoryName":"adventure"}
+{"level":30,"time":1687452294061,"action":"send places with categories","placeName":"skifa el kahla","categoryName":"culturel"}
+{"level":30,"time":1687452294064,"action":"send places with categories","placeName":"skifa el kahla","categoryName":"training"}
+{"level":30,"time":1687452294067,"action":"send places with categories","placeName":"zitouna mosque","categoryName":"culturel"}
+{"level":30,"time":1687452294070,"action":"send places with categories","placeName":"zitouna mosque","categoryName":"religious"}
+{"level":30,"time":1687452294073,"action":"send places with categories","placeName":"la galite islands","categoryName":"nature"}
+{"level":30,"time":1687452294076,"action":"Top likes number 5","placeName":"dar essid museum","likesNumber":"5"}
+{"level":30,"time":1687452294079,"action":"send places with categories","placeName":"la galite islands","categoryName":"adventure"}
+{"level":30,"time":1687452294082,"action":"send places with categories","placeName":"tabarka genoese fort","categoryName":"rural"}
+{"level":30,"time":1687452294085,"action":"send places with categories","placeName":"tabarka genoese fort","categoryName":"nature"}
+{"level":30,"time":1687452294863,"action":"access activities page","idUser":"6485036e2562d8835f4a6d96","userFullName":"flen fouleni"}
+{"level":30,"time":1687452295745,"action":"access home page","idUser":"6485036e2562d8835f4a6d96","userFullName":"flen fouleni"}
+{"level":30,"time":1687452296099,"action":"send places with categories","placeName":"the ain draham mountains","categoryName":"rural"}
+{"level":30,"time":1687452296102,"action":"send places with categories","placeName":"the ribat of sousse","categoryName":"culturel"}
+{"level":30,"time":1687452296104,"action":"send places with categories","placeName":"the ribat of sousse","categoryName":"adventure"}
+{"level":30,"time":1687452296105,"action":"send places with categories","placeName":"dar essid museum","categoryName":"culturel"}
+{"level":30,"time":1687452296106,"action":"send places with categories","placeName":"port el kantaoui","categoryName":"adventure"}
+{"level":30,"time":1687452296107,"action":"send places with categories","placeName":"port el kantaoui","categoryName":"training"}
+{"level":30,"time":1687452296108,"action":"send places with categories","placeName":"skifa el kahla","categoryName":"culturel"}
+{"level":30,"time":1687452296109,"action":"send places with categories","placeName":"zitouna mosque","categoryName":"culturel"}
+{"level":30,"time":1687452296110,"action":"send places with categories","placeName":"skifa el kahla","categoryName":"training"}
+{"level":30,"time":1687452296111,"action":"send places with categories","placeName":"zitouna mosque","categoryName":"religious"}
+{"level":30,"time":1687452296114,"action":"send places with categories","placeName":"la galite islands","categoryName":"nature"}
+{"level":30,"time":1687452296115,"action":"send places with categories","placeName":"tabarka genoese fort","categoryName":"rural"}
+{"level":30,"time":1687452296116,"action":"send places with categories","placeName":"la galite islands","categoryName":"adventure"}
+{"level":30,"time":1687452296117,"action":"Top likes number 5","placeName":"dar essid museum","likesNumber":"5"}
+{"level":30,"time":1687452296117,"action":"send places with categories","placeName":"tabarka genoese fort","categoryName":"nature"}
+{"level":30,"time":1687452296136,"action":"access activities page","idUser":"6485036e2562d8835f4a6d96","userFullName":"flen fouleni"}
+{"level":30,"time":1687452297407,"action":"access places page","idUser":"6485036e2562d8835f4a6d96","userFullName":"flen fouleni"}
+{"level":30,"time":1687452298164,"action":"access Dar Essid Museum page","idUser":"6485036e2562d8835f4a6d96","userFullName":"flen fouleni","idPlace":"6474c012b1dea38fb6be409b","placeName":"dar essid museum"}
+{"level":30,"time":1687452300091,"action":"navigate from dar essid museum  to  entertainment activity ","idUser":"6485036e2562d8835f4a6d96","userFullName":"flen fouleni","idPlace":"6485036e2562d8835f4a6d96","placeName":"dar essid museum","idActivity":"646f4b7285984bddf63bd2ac","activityName":"entertainment"}
+{"level":30,"time":1687452301736,"action":"access La Galite Islands page","idUser":"6485036e2562d8835f4a6d96","userFullName":"flen fouleni","idPlace":"646f59d485984bddf63bd4b9","placeName":"la galite islands"}
+{"level":30,"time":1687452303847,"action":"navigate from la galite islands  to  entertainment activity ","idUser":"6485036e2562d8835f4a6d96","userFullName":"flen fouleni","idPlace":"6485036e2562d8835f4a6d96","placeName":"la galite islands","idActivity":"646f4b7285984bddf63bd2ac","activityName":"entertainment"}
+{"level":30,"time":1687452306078,"action":"access Tabarka Genoese Fort page","idUser":"6485036e2562d8835f4a6d96","userFullName":"flen fouleni","idPlace":"646f595485984bddf63bd4a8","placeName":"tabarka genoese fort"}
+{"level":30,"time":1687452607153,"action":"logout","idUser":"6485036e2562d8835f4a6d96","userFullName":"flen fouleni"}
+{"level":30,"time":1687452607208,"action":"send places with categories","placeName":"the ain draham mountains","categoryName":"rural"}
+{"level":30,"time":1687452607226,"action":"send places with categories","placeName":"the ribat of sousse","categoryName":"culturel"}
+{"level":30,"time":1687452607236,"action":"send places with categories","placeName":"the ribat of sousse","categoryName":"adventure"}
+{"level":30,"time":1687452607242,"action":"send places with categories","placeName":"dar essid museum","categoryName":"culturel"}
+{"level":30,"time":1687452607249,"action":"send places with categories","placeName":"port el kantaoui","categoryName":"training"}
+{"level":30,"time":1687452607253,"action":"send places with categories","placeName":"port el kantaoui","categoryName":"adventure"}
+{"level":30,"time":1687452607256,"action":"send places with categories","placeName":"skifa el kahla","categoryName":"culturel"}
+{"level":30,"time":1687452607259,"action":"send places with categories","placeName":"skifa el kahla","categoryName":"training"}
+{"level":30,"time":1687452607262,"action":"send places with categories","placeName":"zitouna mosque","categoryName":"culturel"}
+{"level":30,"time":1687452607264,"action":"send places with categories","placeName":"zitouna mosque","categoryName":"religious"}
+{"level":30,"time":1687452607267,"action":"send places with categories","placeName":"la galite islands","categoryName":"nature"}
+{"level":30,"time":1687452607275,"action":"Top likes number 5","placeName":"dar essid museum","likesNumber":"5"}
+{"level":30,"time":1687452607279,"action":"send places with categories","placeName":"la galite islands","categoryName":"adventure"}
+{"level":30,"time":1687452607282,"action":"send places with categories","placeName":"tabarka genoese fort","categoryName":"rural"}
+{"level":30,"time":1687452607285,"action":"send places with categories","placeName":"tabarka genoese fort","categoryName":"nature"}
+{"level":30,"time":1687452608011,"action":"access sign in page"}
+{"level":30,"time":1687452610102,"action":"access sign in page"}
+{"level":30,"time":1687452612513,"action":"access sign up page"}
+{"level":30,"time":1687452684190,"action":"create account","userFullName":"ahmed ben khaled","nationality":"tunisia","age":"28"}
+{"level":30,"time":1687452709058,"action":"login","idUser":"64947c0b9b703cb58d13d73c","userFullName":"ahmed ben khaled","nationality":"tunisia"}
+{"level":30,"time":1687452709270,"action":"send places with categories","placeName":"the ain draham mountains","categoryName":"rural"}
+{"level":30,"time":1687452709271,"action":"send places with categories","placeName":"the ribat of sousse","categoryName":"culturel"}
+{"level":30,"time":1687452709273,"action":"send places with categories","placeName":"the ribat of sousse","categoryName":"adventure"}
+{"level":30,"time":1687452709276,"action":"send places with categories","placeName":"dar essid museum","categoryName":"culturel"}
+{"level":30,"time":1687452709280,"action":"send places with categories","placeName":"port el kantaoui","categoryName":"training"}
+{"level":30,"time":1687452709281,"action":"send places with categories","placeName":"skifa el kahla","categoryName":"culturel"}
+{"level":30,"time":1687452709282,"action":"send places with categories","placeName":"port el kantaoui","categoryName":"adventure"}
+{"level":30,"time":1687452709283,"action":"send places with categories","placeName":"skifa el kahla","categoryName":"training"}
+{"level":30,"time":1687452709285,"action":"send places with categories","placeName":"zitouna mosque","categoryName":"culturel"}
+{"level":30,"time":1687452709286,"action":"send places with categories","placeName":"zitouna mosque","categoryName":"religious"}
+{"level":30,"time":1687452709287,"action":"send places with categories","placeName":"la galite islands","categoryName":"nature"}
+{"level":30,"time":1687452709288,"action":"Top likes number 5","placeName":"dar essid museum","likesNumber":"5"}
+{"level":30,"time":1687452709289,"action":"send places with categories","placeName":"la galite islands","categoryName":"adventure"}
+{"level":30,"time":1687452709290,"action":"send places with categories","placeName":"tabarka genoese fort","categoryName":"rural"}
+{"level":30,"time":1687452709292,"action":"send places with categories","placeName":"tabarka genoese fort","categoryName":"nature"}
+{"level":30,"time":1687455360372,"action":"logout","idUser":"64947c0b9b703cb58d13d73c","userFullName":"ahmed ben khaled"}
+{"level":30,"time":1687455361669,"action":"access sign up page"}
+{"level":30,"time":1687455463187,"action":"create account","userFullName":"khalil ben ali","nationality":"algeria","age":"55"}
+{"level":30,"time":1687455473815,"action":"login","idUser":"649486e69b703cb58d13d750","userFullName":"khalil ben ali","nationality":"algeria"}
+{"level":30,"time":1687455474188,"action":"send places with categories","placeName":"the ain draham mountains","categoryName":"rural"}
+{"level":30,"time":1687455474189,"action":"send places with categories","placeName":"the ribat of sousse","categoryName":"culturel"}
+{"level":30,"time":1687455474197,"action":"send places with categories","placeName":"the ribat of sousse","categoryName":"adventure"}
+{"level":30,"time":1687455474198,"action":"send places with categories","placeName":"dar essid museum","categoryName":"culturel"}
+{"level":30,"time":1687455474199,"action":"send places with categories","placeName":"port el kantaoui","categoryName":"training"}
+{"level":30,"time":1687455474201,"action":"send places with categories","placeName":"port el kantaoui","categoryName":"adventure"}
+{"level":30,"time":1687455474202,"action":"send places with categories","placeName":"skifa el kahla","categoryName":"culturel"}
+{"level":30,"time":1687455474205,"action":"send places with categories","placeName":"skifa el kahla","categoryName":"training"}
+{"level":30,"time":1687455474209,"action":"send places with categories","placeName":"zitouna mosque","categoryName":"religious"}
+{"level":30,"time":1687455474210,"action":"send places with categories","placeName":"zitouna mosque","categoryName":"culturel"}
+{"level":30,"time":1687455474212,"action":"send places with categories","placeName":"la galite islands","categoryName":"nature"}
+{"level":30,"time":1687455474216,"action":"Top likes number 5","placeName":"dar essid museum","likesNumber":"5"}
+{"level":30,"time":1687455474218,"action":"send places with categories","placeName":"la galite islands","categoryName":"adventure"}
+{"level":30,"time":1687455474219,"action":"send places with categories","placeName":"tabarka genoese fort","categoryName":"rural"}
+{"level":30,"time":1687455474221,"action":"send places with categories","placeName":"tabarka genoese fort","categoryName":"nature"}
+{"level":30,"time":1687462986128,"action":"access home page","idUser":"649486e69b703cb58d13d750","userFullName":"khalil ben ali"}
+{"level":30,"time":1687462986704,"action":"access activities page","idUser":"649486e69b703cb58d13d750","userFullName":"khalil ben ali"}
+{"level":30,"time":1687462987284,"action":"access cities page","idUser":"649486e69b703cb58d13d750","userFullName":"khalil ben ali"}
+{"level":30,"time":1687462987967,"action":"access home page","idUser":"649486e69b703cb58d13d750","userFullName":"khalil ben ali"}
+{"level":30,"time":1687462988111,"action":"send places with categories","placeName":"the ain draham mountains","categoryName":"rural"}
+{"level":30,"time":1687462988114,"action":"send places with categories","placeName":"the ribat of sousse","categoryName":"culturel"}
+{"level":30,"time":1687462988118,"action":"send places with categories","placeName":"the ribat of sousse","categoryName":"adventure"}
+{"level":30,"time":1687462988122,"action":"send places with categories","placeName":"dar essid museum","categoryName":"culturel"}
+{"level":30,"time":1687462988125,"action":"send places with categories","placeName":"port el kantaoui","categoryName":"training"}
+{"level":30,"time":1687462988128,"action":"send places with categories","placeName":"port el kantaoui","categoryName":"adventure"}
+{"level":30,"time":1687462988136,"action":"send places with categories","placeName":"skifa el kahla","categoryName":"culturel"}
+{"level":30,"time":1687462988141,"action":"send places with categories","placeName":"skifa el kahla","categoryName":"training"}
+{"level":30,"time":1687462988145,"action":"send places with categories","placeName":"zitouna mosque","categoryName":"culturel"}
+{"level":30,"time":1687462988148,"action":"send places with categories","placeName":"zitouna mosque","categoryName":"religious"}
+{"level":30,"time":1687462988152,"action":"send places with categories","placeName":"la galite islands","categoryName":"nature"}
+{"level":30,"time":1687462988155,"action":"Top likes number 5","placeName":"dar essid museum","likesNumber":"5"}
+{"level":30,"time":1687462988158,"action":"send places with categories","placeName":"la galite islands","categoryName":"adventure"}
+{"level":30,"time":1687462988161,"action":"send places with categories","placeName":"tabarka genoese fort","categoryName":"rural"}
+{"level":30,"time":1687462988164,"action":"send places with categories","placeName":"tabarka genoese fort","categoryName":"nature"}
+{"level":30,"time":1687462995806,"action":"logout","idUser":"649486e69b703cb58d13d750","userFullName":"khalil ben ali"}
+{"level":30,"time":1687462998745,"action":"access Dar Essid Museum page","idPlace":"6474c012b1dea38fb6be409b","paceName":"dar essid museum"}
+{"level":30,"time":1687463011319,"action":"send places with categories","placeName":"the ain draham mountains","categoryName":"rural"}
+{"level":30,"time":1687463011320,"action":"send places with categories","placeName":"the ribat of sousse","categoryName":"culturel"}
+{"level":30,"time":1687463011322,"action":"send places with categories","placeName":"the ribat of sousse","categoryName":"adventure"}
+{"level":30,"time":1687463011326,"action":"send places with categories","placeName":"dar essid museum","categoryName":"culturel"}
+{"level":30,"time":1687463011329,"action":"send places with categories","placeName":"port el kantaoui","categoryName":"training"}
+{"level":30,"time":1687463011330,"action":"send places with categories","placeName":"port el kantaoui","categoryName":"adventure"}
+{"level":30,"time":1687463011333,"action":"send places with categories","placeName":"skifa el kahla","categoryName":"culturel"}
+{"level":30,"time":1687463011335,"action":"send places with categories","placeName":"skifa el kahla","categoryName":"training"}
+{"level":30,"time":1687463011339,"action":"send places with categories","placeName":"zitouna mosque","categoryName":"culturel"}
+{"level":30,"time":1687463011348,"action":"send places with categories","placeName":"zitouna mosque","categoryName":"religious"}
+{"level":30,"time":1687463011352,"action":"send places with categories","placeName":"la galite islands","categoryName":"nature"}
+{"level":30,"time":1687463011355,"action":"Top likes number 5","placeName":"dar essid museum","likesNumber":"5"}
+{"level":30,"time":1687463011356,"action":"send places with categories","placeName":"la galite islands","categoryName":"adventure"}
+{"level":30,"time":1687463011363,"action":"send places with categories","placeName":"tabarka genoese fort","categoryName":"rural"}
+{"level":30,"time":1687463011365,"action":"send places with categories","placeName":"tabarka genoese fort","categoryName":"nature"}
+{"level":30,"time":1687463012927,"action":"send places with categories","placeName":"the ain draham mountains","categoryName":"rural"}
+{"level":30,"time":1687463012931,"action":"send places with categories","placeName":"the ribat of sousse","categoryName":"culturel"}
+{"level":30,"time":1687463012956,"action":"send places with categories","placeName":"the ribat of sousse","categoryName":"adventure"}
+{"level":30,"time":1687463012966,"action":"send places with categories","placeName":"dar essid museum","categoryName":"culturel"}
+{"level":30,"time":1687463012973,"action":"send places with categories","placeName":"port el kantaoui","categoryName":"training"}
+{"level":30,"time":1687463012981,"action":"send places with categories","placeName":"port el kantaoui","categoryName":"adventure"}
+{"level":30,"time":1687463012998,"action":"send places with categories","placeName":"skifa el kahla","categoryName":"culturel"}
+{"level":30,"time":1687463013007,"action":"send places with categories","placeName":"skifa el kahla","categoryName":"training"}
+{"level":30,"time":1687463013016,"action":"send places with categories","placeName":"zitouna mosque","categoryName":"culturel"}
+{"level":30,"time":1687463013023,"action":"send places with categories","placeName":"zitouna mosque","categoryName":"religious"}
+{"level":30,"time":1687463013042,"action":"send places with categories","placeName":"la galite islands","categoryName":"nature"}
+{"level":30,"time":1687463013052,"action":"Top likes number 5","placeName":"dar essid museum","likesNumber":"5"}
+{"level":30,"time":1687463013058,"action":"send places with categories","placeName":"la galite islands","categoryName":"adventure"}
+{"level":30,"time":1687463013066,"action":"send places with categories","placeName":"tabarka genoese fort","categoryName":"rural"}
+{"level":30,"time":1687463013072,"action":"send places with categories","placeName":"tabarka genoese fort","categoryName":"nature"}
+{"level":30,"time":1687463014521,"action":"access Dar Essid Museum page","idPlace":"6474c012b1dea38fb6be409b","paceName":"dar essid museum"}
+{"level":30,"time":1687463018852,"action":"send places with categories","placeName":"the ain draham mountains","categoryName":"rural"}
+{"level":30,"time":1687463018856,"action":"send places with categories","placeName":"the ribat of sousse","categoryName":"culturel"}
+{"level":30,"time":1687463018859,"action":"send places with categories","placeName":"the ribat of sousse","categoryName":"adventure"}
+{"level":30,"time":1687463018865,"action":"send places with categories","placeName":"dar essid museum","categoryName":"culturel"}
+{"level":30,"time":1687463018868,"action":"send places with categories","placeName":"port el kantaoui","categoryName":"training"}
+{"level":30,"time":1687463018871,"action":"send places with categories","placeName":"port el kantaoui","categoryName":"adventure"}
+{"level":30,"time":1687463018875,"action":"send places with categories","placeName":"skifa el kahla","categoryName":"culturel"}
+{"level":30,"time":1687463018881,"action":"send places with categories","placeName":"skifa el kahla","categoryName":"training"}
+{"level":30,"time":1687463018887,"action":"send places with categories","placeName":"zitouna mosque","categoryName":"religious"}
+{"level":30,"time":1687463018890,"action":"send places with categories","placeName":"zitouna mosque","categoryName":"culturel"}
+{"level":30,"time":1687463018892,"action":"send places with categories","placeName":"la galite islands","categoryName":"nature"}
+{"level":30,"time":1687463018894,"action":"Top likes number 5","placeName":"dar essid museum","likesNumber":"5"}
+{"level":30,"time":1687463018899,"action":"send places with categories","placeName":"tabarka genoese fort","categoryName":"rural"}
+{"level":30,"time":1687463018901,"action":"send places with categories","placeName":"la galite islands","categoryName":"adventure"}
+{"level":30,"time":1687463018903,"action":"send places with categories","placeName":"tabarka genoese fort","categoryName":"nature"}
+{"level":30,"time":1687463021474,"action":"send places with categories","placeName":"the ain draham mountains","categoryName":"rural"}
+{"level":30,"time":1687463021479,"action":"send places with categories","placeName":"the ribat of sousse","categoryName":"culturel"}
+{"level":30,"time":1687463021483,"action":"send places with categories","placeName":"the ribat of sousse","categoryName":"adventure"}
+{"level":30,"time":1687463021488,"action":"send places with categories","placeName":"dar essid museum","categoryName":"culturel"}
+{"level":30,"time":1687463021494,"action":"send places with categories","placeName":"port el kantaoui","categoryName":"training"}
+{"level":30,"time":1687463021499,"action":"send places with categories","placeName":"port el kantaoui","categoryName":"adventure"}
+{"level":30,"time":1687463021507,"action":"send places with categories","placeName":"skifa el kahla","categoryName":"culturel"}
+{"level":30,"time":1687463021513,"action":"send places with categories","placeName":"skifa el kahla","categoryName":"training"}
+{"level":30,"time":1687463021521,"action":"send places with categories","placeName":"zitouna mosque","categoryName":"culturel"}
+{"level":30,"time":1687463021526,"action":"send places with categories","placeName":"zitouna mosque","categoryName":"religious"}
+{"level":30,"time":1687463021530,"action":"send places with categories","placeName":"la galite islands","categoryName":"nature"}
+{"level":30,"time":1687463021536,"action":"Top likes number 5","placeName":"dar essid museum","likesNumber":"5"}
+{"level":30,"time":1687463021539,"action":"send places with categories","placeName":"la galite islands","categoryName":"adventure"}
+{"level":30,"time":1687463021544,"action":"send places with categories","placeName":"tabarka genoese fort","categoryName":"rural"}
+{"level":30,"time":1687463021549,"action":"send places with categories","placeName":"tabarka genoese fort","categoryName":"nature"}
+{"level":30,"time":1687463154193,"action":"access Dar Essid Museum page","idPlace":"6474c012b1dea38fb6be409b","paceName":"dar essid museum"}
+{"level":30,"time":1687463464319,"action":"access sign in page"}
+{"level":30,"time":1687463486109,"action":"login","idUser":"6484df402562d8835f4a56c3","userFullName":"najeh ben charrada","nationality":"tunisia"}
+{"level":30,"time":1687463486351,"action":"send places with categories","placeName":"the ain draham mountains","categoryName":"rural"}
+{"level":30,"time":1687463486356,"action":"send places with categories","placeName":"the ribat of sousse","categoryName":"culturel"}
+{"level":30,"time":1687463486358,"action":"send places with categories","placeName":"the ribat of sousse","categoryName":"adventure"}
+{"level":30,"time":1687463486367,"action":"send places with categories","placeName":"port el kantaoui","categoryName":"training"}
+{"level":30,"time":1687463486368,"action":"send places with categories","placeName":"dar essid museum","categoryName":"culturel"}
+{"level":30,"time":1687463486369,"action":"send places with categories","placeName":"port el kantaoui","categoryName":"adventure"}
+{"level":30,"time":1687463486372,"action":"send places with categories","placeName":"skifa el kahla","categoryName":"culturel"}
+{"level":30,"time":1687463486375,"action":"send places with categories","placeName":"zitouna mosque","categoryName":"culturel"}
+{"level":30,"time":1687463486380,"action":"send places with categories","placeName":"skifa el kahla","categoryName":"training"}
+{"level":30,"time":1687463486382,"action":"send places with categories","placeName":"zitouna mosque","categoryName":"religious"}
+{"level":30,"time":1687463486384,"action":"Top likes number 5","placeName":"dar essid museum","likesNumber":"5"}
+{"level":30,"time":1687463486387,"action":"send places with categories","placeName":"la galite islands","categoryName":"nature"}
+{"level":30,"time":1687463486389,"action":"send places with categories","placeName":"la galite islands","categoryName":"adventure"}
+{"level":30,"time":1687463486392,"action":"send places with categories","placeName":"tabarka genoese fort","categoryName":"rural"}
+{"level":30,"time":1687463486399,"action":"send places with categories","placeName":"tabarka genoese fort","categoryName":"nature"}
+{"level":30,"time":1687463489432,"action":"access Dar Essid Museum page","idUser":"6484df402562d8835f4a56c3","userFullName":"najeh ben charrada","idPlace":"6474c012b1dea38fb6be409b","placeName":"dar essid museum"}
+{"level":30,"time":1687463981838,"action":"access La Galite Islands page","idUser":"6484df402562d8835f4a56c3","userFullName":"najeh ben charrada","idPlace":"646f59d485984bddf63bd4b9","placeName":"la galite islands"}
+{"level":30,"time":1687463983301,"action":"navigate from la galite islands  to  swimming activity ","idUser":"6484df402562d8835f4a56c3","userFullName":"najeh ben charrada","idPlace":"6484df402562d8835f4a56c3","placeName":"la galite islands","idActivity":"646f4a9b85984bddf63bcf33","activityName":"swimming"}
+{"level":30,"time":1687463984954,"action":"access La Galite Islands page","idUser":"6484df402562d8835f4a56c3","userFullName":"najeh ben charrada","idPlace":"646f59d485984bddf63bd4b9","placeName":"la galite islands"}
+{"level":30,"time":1687463990334,"action":"navigate from dar essid museum  to  entertainment activity ","idUser":"6484df402562d8835f4a56c3","userFullName":"najeh ben charrada","idPlace":"6484df402562d8835f4a56c3","placeName":"dar essid museum","idActivity":"646f4b7285984bddf63bd2ac","activityName":"entertainment"}
+{"level":30,"time":1687463992021,"action":"access Port El Kantaoui page","idUser":"6484df402562d8835f4a56c3","userFullName":"najeh ben charrada","idPlace":"6474bfb9b1dea38fb6be408c","placeName":"port el kantaoui"}
+{"level":30,"time":1687463994495,"action":"navigate from port el kantaoui  to  discover tour activity ","idUser":"6484df402562d8835f4a56c3","userFullName":"najeh ben charrada","idPlace":"6484df402562d8835f4a56c3","placeName":"port el kantaoui","idActivity":"646f490b85984bddf63bc7c5","activityName":"discover tour"}
+{"level":30,"time":1687463996457,"action":"access Skifa el kahla page","idUser":"6484df402562d8835f4a56c3","userFullName":"najeh ben charrada","idPlace":"6474bf1bb1dea38fb6be4060","placeName":"skifa el kahla"}
+{"level":30,"time":1687463997910,"action":"navigate from skifa el kahla  to  discover tour activity ","idUser":"6484df402562d8835f4a56c3","userFullName":"najeh ben charrada","idPlace":"6484df402562d8835f4a56c3","placeName":"skifa el kahla","idActivity":"646f490b85984bddf63bc7c5","activityName":"discover tour"}
+{"level":30,"time":1687465161764,"action":"access activities page","idUser":"6484df402562d8835f4a56c3","userFullName":"najeh ben charrada"}
+{"level":30,"time":1687465163015,"action":"access golf page","idUser":"6484df402562d8835f4a56c3","userFullName":"najeh ben charrada","idActivity":"645e442d8eb9155ecc07e05c","activityName":"golf"}
+{"level":30,"time":1687465164736,"action":"access hiking page","idUser":"6484df402562d8835f4a56c3","userFullName":"najeh ben charrada","idActivity":"645e444b8eb9155ecc07e10d","activityName":"hiking"}
+{"level":30,"time":1687465166403,"action":"access discover tour page","idUser":"6484df402562d8835f4a56c3","userFullName":"najeh ben charrada","idActivity":"646f490b85984bddf63bc7c5","activityName":"discover tour"}
+{"level":30,"time":1687465168207,"action":"access hammamet pirate ship page","idUser":"6484df402562d8835f4a56c3","userFullName":"najeh ben charrada","idActivity":"646f495785984bddf63bc92d","activityName":"hammamet pirate ship"}
+{"level":30,"time":1687465169984,"action":"access squad sahara page","idUser":"6484df402562d8835f4a56c3","userFullName":"najeh ben charrada","idActivity":"646f498a85984bddf63bca1c","activityName":"squad sahara"}
+{"level":30,"time":1687465172600,"action":"access swimming page","idUser":"6484df402562d8835f4a56c3","userFullName":"najeh ben charrada","idActivity":"646f4a9b85984bddf63bcf33","activityName":"swimming"}
+{"level":30,"time":1687465174791,"action":"access entertainment page","idUser":"6484df402562d8835f4a56c3","userFullName":"najeh ben charrada","idActivity":"646f4b7285984bddf63bd2ac","activityName":"entertainment"}
+{"level":30,"time":1687465177578,"action":"access worship page","idUser":"6484df402562d8835f4a56c3","userFullName":"najeh ben charrada","idActivity":"646f5c7185984bddf63bd66d","activityName":"worship"}
+{"level":30,"time":1687465252282,"action":"access cities page","idUser":"6484df402562d8835f4a56c3","userFullName":"najeh ben charrada"}
+{"level":30,"time":1687465253877,"action":"access monastir page","idUser":"6484df402562d8835f4a56c3","userFullName":"najeh ben charrada","idCity":"645e1579385666e8ea9fc279","cityName":"monastir"}
+{"level":30,"time":1687465255296,"action":"access sousse page","idUser":"6484df402562d8835f4a56c3","userFullName":"najeh ben charrada","idCity":"645e15ba385666e8ea9fc39e","cityName":"sousse"}
+{"level":30,"time":1687465257040,"action":"access tabarka page","idUser":"6484df402562d8835f4a56c3","userFullName":"najeh ben charrada","idCity":"645e1601385666e8ea9fc500","cityName":"tabarka"}
+{"level":30,"time":1687465258599,"action":"access beja page","idUser":"6484df402562d8835f4a56c3","userFullName":"najeh ben charrada","idCity":"645e1651385666e8ea9fc67d","cityName":"beja"}
+{"level":30,"time":1687465260519,"action":"access tunis page","idUser":"6484df402562d8835f4a56c3","userFullName":"najeh ben charrada","idCity":"645e16a5385666e8ea9fc7e8","cityName":"tunis"}
+{"level":30,"time":1687465262827,"action":"access mahdia page","idUser":"6484df402562d8835f4a56c3","userFullName":"najeh ben charrada","idCity":"645e16e2385666e8ea9fc8ff","cityName":"mahdia"}
+{"level":30,"time":1687465264562,"action":"access jendouba page","idUser":"6484df402562d8835f4a56c3","userFullName":"najeh ben charrada","idCity":"6474c3ddb1dea38fb6be4673","cityName":"jendouba"}
+{"level":30,"time":1687466483458,"action":"access places page","idUser":"6484df402562d8835f4a56c3","userFullName":"najeh ben charrada"}
+{"level":30,"time":1687466485380,"action":"add a rate to dar essid museum page","idUser":"6484df402562d8835f4a56c3","userFullName":"najeh ben charrada","idPlace":"6474c012b1dea38fb6be409b","placeName":"dar essid museum"}
+{"level":30,"time":1687466490302,"action":"add a rate to dar essid museum page","idUser":"6484df402562d8835f4a56c3","userFullName":"najeh ben charrada","idPlace":"6474c012b1dea38fb6be409b","placeName":"dar essid museum"}
+{"level":30,"time":1687466899947,"action":"access search page","idUser":"6484df402562d8835f4a56c3","userFullName":"najeh ben charrada"}
+{"level":30,"time":1687466905120,"action":"search on mahdia  ","idUser":"6484df402562d8835f4a56c3","userFullName":"najeh ben charrada"}
+{"level":30,"time":1687466905982,"action":"nav from search page to city Mahdia  ","idUser":"6484df402562d8835f4a56c3","userFullName":"najeh ben charrada","idCity":"645e16e2385666e8ea9fc8ff","cityName":"mahdia"}
+{"level":30,"time":1687466909631,"action":"search on places that have as category nature and as activity hammamet pirate ship  ","idUser":"6484df402562d8835f4a56c3","userFullName":"najeh ben charrada"}
+{"level":30,"time":1687466916257,"action":"search on places that have as category training and as activity discover tour  ","idUser":"6484df402562d8835f4a56c3","userFullName":"najeh ben charrada"}
+{"level":30,"time":1687466919361,"action":"search on places that have as category training and as activity discover tour,hiking  ","idUser":"6484df402562d8835f4a56c3","userFullName":"najeh ben charrada"}
+{"level":30,"time":1687466922515,"action":"search on places that have as category training and as activity discover tour,hiking,entertainment,golf  ","idUser":"6484df402562d8835f4a56c3","userFullName":"najeh ben charrada"}
+{"level":30,"time":1687466924018,"action":"search on places that have as category training,culturel and as activity discover tour,hiking,entertainment,golf  ","idUser":"6484df402562d8835f4a56c3","userFullName":"najeh ben charrada"}
+{"level":30,"time":1687467355752,"action":"add a rate to dar essid museum page","idUser":"6484df402562d8835f4a56c3","userFullName":"najeh ben charrada","idPlace":"6474c012b1dea38fb6be409b","placeName":"dar essid museum"}
+{"level":30,"time":1687467361917,"action":"add a rate to la galite islands page","idUser":"6484df402562d8835f4a56c3","userFullName":"najeh ben charrada","idPlace":"646f59d485984bddf63bd4b9","placeName":"la galite islands"}
+{"level":30,"time":1687467366051,"action":"add a rate to tabarka genoese fort page","idUser":"6484df402562d8835f4a56c3","userFullName":"najeh ben charrada","idPlace":"646f595485984bddf63bd4a8","placeName":"tabarka genoese fort"}
+{"level":30,"time":1687467838525,"action":"logout","idUser":"6484df402562d8835f4a56c3","userFullName":"najeh ben charrada"}
+{"level":30,"time":1687467838691,"action":"send places with categories","placeName":"the ain draham mountains","categoryName":"rural"}
+{"level":30,"time":1687467838743,"action":"send places with categories","placeName":"the ribat of sousse","categoryName":"culturel"}
+{"level":30,"time":1687467838759,"action":"send places with categories","placeName":"the ribat of sousse","categoryName":"adventure"}
+{"level":30,"time":1687467838775,"action":"send places with categories","placeName":"dar essid museum","categoryName":"culturel"}
+{"level":30,"time":1687467838812,"action":"send places with categories","placeName":"port el kantaoui","categoryName":"training"}
+{"level":30,"time":1687467838823,"action":"send places with categories","placeName":"skifa el kahla","categoryName":"culturel"}
+{"level":30,"time":1687467838825,"action":"send places with categories","placeName":"port el kantaoui","categoryName":"adventure"}
+{"level":30,"time":1687467838830,"action":"send places with categories","placeName":"skifa el kahla","categoryName":"training"}
+{"level":30,"time":1687467838833,"action":"send places with categories","placeName":"zitouna mosque","categoryName":"culturel"}
+{"level":30,"time":1687467838838,"action":"send places with categories","placeName":"zitouna mosque","categoryName":"religious"}
+{"level":30,"time":1687467838843,"action":"send places with categories","placeName":"la galite islands","categoryName":"nature"}
+{"level":30,"time":1687467838851,"action":"Top likes number 5","placeName":"dar essid museum","likesNumber":"5"}
+{"level":30,"time":1687467838854,"action":"send places with categories","placeName":"la galite islands","categoryName":"adventure"}
+{"level":30,"time":1687467838862,"action":"send places with categories","placeName":"tabarka genoese fort","categoryName":"rural"}
+{"level":30,"time":1687467838868,"action":"send places with categories","placeName":"tabarka genoese fort","categoryName":"nature"}
+{"level":30,"time":1687467840127,"action":"access Dar Essid Museum page","idPlace":"6474c012b1dea38fb6be409b","paceName":"dar essid museum"}
+{"level":30,"time":1687467986750,"action":"send places with categories","placeName":"the ain draham mountains","categoryName":"rural"}
+{"level":30,"time":1687467986762,"action":"send places with categories","placeName":"the ribat of sousse","categoryName":"culturel"}
+{"level":30,"time":1687467986766,"action":"send places with categories","placeName":"the ribat of sousse","categoryName":"adventure"}
+{"level":30,"time":1687467986783,"action":"send places with categories","placeName":"port el kantaoui","categoryName":"training"}
+{"level":30,"time":1687467986785,"action":"send places with categories","placeName":"port el kantaoui","categoryName":"adventure"}
+{"level":30,"time":1687467986791,"action":"send places with categories","placeName":"dar essid museum","categoryName":"culturel"}
+{"level":30,"time":1687467986815,"action":"send places with categories","placeName":"skifa el kahla","categoryName":"culturel"}
+{"level":30,"time":1687467986818,"action":"send places with categories","placeName":"zitouna mosque","categoryName":"culturel"}
+{"level":30,"time":1687467986820,"action":"send places with categories","placeName":"skifa el kahla","categoryName":"training"}
+{"level":30,"time":1687467986845,"action":"send places with categories","placeName":"zitouna mosque","categoryName":"religious"}
+{"level":30,"time":1687467986875,"action":"send places with categories","placeName":"la galite islands","categoryName":"adventure"}
+{"level":30,"time":1687467986877,"action":"send places with categories","placeName":"la galite islands","categoryName":"nature"}
+{"level":30,"time":1687467986890,"action":"Top likes number 5","placeName":"dar essid museum","likesNumber":"5"}
+{"level":30,"time":1687467986902,"action":"send places with categories","placeName":"tabarka genoese fort","categoryName":"nature"}
+{"level":30,"time":1687467986915,"action":"send places with categories","placeName":"tabarka genoese fort","categoryName":"rural"}
+{"level":30,"time":1687467988264,"action":"access Zitouna Mosque page","idPlace":"646f5cf885984bddf63bd6ac","paceName":"zitouna mosque"}
+{"level":30,"time":1687467990887,"action":"send places with categories","placeName":"the ain draham mountains","categoryName":"rural"}
+{"level":30,"time":1687467990897,"action":"send places with categories","placeName":"the ribat of sousse","categoryName":"culturel"}
+{"level":30,"time":1687467990908,"action":"send places with categories","placeName":"the ribat of sousse","categoryName":"adventure"}
+{"level":30,"time":1687467990916,"action":"send places with categories","placeName":"dar essid museum","categoryName":"culturel"}
+{"level":30,"time":1687467990923,"action":"send places with categories","placeName":"port el kantaoui","categoryName":"training"}
+{"level":30,"time":1687467990929,"action":"send places with categories","placeName":"port el kantaoui","categoryName":"adventure"}
+{"level":30,"time":1687467990964,"action":"send places with categories","placeName":"skifa el kahla","categoryName":"culturel"}
+{"level":30,"time":1687467990976,"action":"send places with categories","placeName":"skifa el kahla","categoryName":"training"}
+{"level":30,"time":1687467990992,"action":"send places with categories","placeName":"zitouna mosque","categoryName":"culturel"}
+{"level":30,"time":1687467991003,"action":"send places with categories","placeName":"zitouna mosque","categoryName":"religious"}
+{"level":30,"time":1687467991014,"action":"send places with categories","placeName":"la galite islands","categoryName":"nature"}
+{"level":30,"time":1687467991024,"action":"Top likes number 5","placeName":"dar essid museum","likesNumber":"5"}
+{"level":30,"time":1687467991038,"action":"send places with categories","placeName":"la galite islands","categoryName":"adventure"}
+{"level":30,"time":1687467991049,"action":"send places with categories","placeName":"tabarka genoese fort","categoryName":"rural"}
+{"level":30,"time":1687467991059,"action":"send places with categories","placeName":"tabarka genoese fort","categoryName":"nature"}
+{"level":30,"time":1687467991862,"action":"access Skifa el kahla page","idPlace":"6474bf1bb1dea38fb6be4060","paceName":"skifa el kahla"}
+{"level":30,"time":1687467993642,"action":"send places with categories","placeName":"the ain draham mountains","categoryName":"rural"}
+{"level":30,"time":1687467993654,"action":"send places with categories","placeName":"the ribat of sousse","categoryName":"culturel"}
+{"level":30,"time":1687467993665,"action":"send places with categories","placeName":"the ribat of sousse","categoryName":"adventure"}
+{"level":30,"time":1687467993672,"action":"send places with categories","placeName":"dar essid museum","categoryName":"culturel"}
+{"level":30,"time":1687467993681,"action":"send places with categories","placeName":"port el kantaoui","categoryName":"training"}
+{"level":30,"time":1687467993691,"action":"send places with categories","placeName":"port el kantaoui","categoryName":"adventure"}
+{"level":30,"time":1687467993701,"action":"send places with categories","placeName":"skifa el kahla","categoryName":"culturel"}
+{"level":30,"time":1687467993709,"action":"send places with categories","placeName":"skifa el kahla","categoryName":"training"}
+{"level":30,"time":1687467993718,"action":"send places with categories","placeName":"zitouna mosque","categoryName":"culturel"}
+{"level":30,"time":1687467993729,"action":"send places with categories","placeName":"zitouna mosque","categoryName":"religious"}
+{"level":30,"time":1687467993738,"action":"send places with categories","placeName":"la galite islands","categoryName":"nature"}
+{"level":30,"time":1687467993747,"action":"Top likes number 5","placeName":"dar essid museum","likesNumber":"5"}
+{"level":30,"time":1687467993756,"action":"send places with categories","placeName":"la galite islands","categoryName":"adventure"}
+{"level":30,"time":1687467993765,"action":"send places with categories","placeName":"tabarka genoese fort","categoryName":"rural"}
+{"level":30,"time":1687467993776,"action":"send places with categories","placeName":"tabarka genoese fort","categoryName":"nature"}
+{"level":30,"time":1687468057150,"action":"access Zitouna Mosque page","idPlace":"646f5cf885984bddf63bd6ac","paceName":"zitouna mosque"}
+{"level":30,"time":1687468059379,"action":"send places with categories","placeName":"the ain draham mountains","categoryName":"rural"}
+{"level":30,"time":1687468059390,"action":"send places with categories","placeName":"the ribat of sousse","categoryName":"culturel"}
+{"level":30,"time":1687468059398,"action":"send places with categories","placeName":"the ribat of sousse","categoryName":"adventure"}
+{"level":30,"time":1687468059407,"action":"send places with categories","placeName":"dar essid museum","categoryName":"culturel"}
+{"level":30,"time":1687468059413,"action":"send places with categories","placeName":"port el kantaoui","categoryName":"training"}
+{"level":30,"time":1687468059424,"action":"send places with categories","placeName":"port el kantaoui","categoryName":"adventure"}
+{"level":30,"time":1687468059434,"action":"send places with categories","placeName":"skifa el kahla","categoryName":"culturel"}
+{"level":30,"time":1687468059444,"action":"send places with categories","placeName":"skifa el kahla","categoryName":"training"}
+{"level":30,"time":1687468059453,"action":"send places with categories","placeName":"zitouna mosque","categoryName":"culturel"}
+{"level":30,"time":1687468059466,"action":"send places with categories","placeName":"zitouna mosque","categoryName":"religious"}
+{"level":30,"time":1687468059479,"action":"send places with categories","placeName":"la galite islands","categoryName":"nature"}
+{"level":30,"time":1687468059489,"action":"Top likes number 5","placeName":"dar essid museum","likesNumber":"5"}
+{"level":30,"time":1687468059500,"action":"send places with categories","placeName":"la galite islands","categoryName":"adventure"}
+{"level":30,"time":1687468059510,"action":"send places with categories","placeName":"tabarka genoese fort","categoryName":"rural"}
+{"level":30,"time":1687468059518,"action":"send places with categories","placeName":"tabarka genoese fort","categoryName":"nature"}
+{"level":30,"time":1687468060124,"action":"access Dar Essid Museum page","idPlace":"6474c012b1dea38fb6be409b","paceName":"dar essid museum"}
+{"level":30,"time":1687468146390,"action":"send places with categories","placeName":"the ribat of sousse","categoryName":"adventure"}
+{"level":30,"time":1687468146398,"action":"send places with categories","placeName":"dar essid museum","categoryName":"culturel"}
+{"level":30,"time":1687468146400,"action":"send places with categories","placeName":"the ain draham mountains","categoryName":"rural"}
+{"level":30,"time":1687468146409,"action":"send places with categories","placeName":"the ribat of sousse","categoryName":"culturel"}
+{"level":30,"time":1687468146421,"action":"send places with categories","placeName":"port el kantaoui","categoryName":"training"}
+{"level":30,"time":1687468146428,"action":"send places with categories","placeName":"port el kantaoui","categoryName":"adventure"}
+{"level":30,"time":1687468146440,"action":"send places with categories","placeName":"skifa el kahla","categoryName":"training"}
+{"level":30,"time":1687468146449,"action":"send places with categories","placeName":"skifa el kahla","categoryName":"culturel"}
+{"level":30,"time":1687468146453,"action":"send places with categories","placeName":"zitouna mosque","categoryName":"religious"}
+{"level":30,"time":1687468146468,"action":"send places with categories","placeName":"la galite islands","categoryName":"nature"}
+{"level":30,"time":1687468146479,"action":"send places with categories","placeName":"zitouna mosque","categoryName":"culturel"}
+{"level":30,"time":1687468146483,"action":"send places with categories","placeName":"tabarka genoese fort","categoryName":"rural"}
+{"level":30,"time":1687468146492,"action":"Top likes number 5","placeName":"dar essid museum","likesNumber":"5"}
+{"level":30,"time":1687468146503,"action":"send places with categories","placeName":"la galite islands","categoryName":"adventure"}
+{"level":30,"time":1687468146525,"action":"send places with categories","placeName":"tabarka genoese fort","categoryName":"nature"}
+{"level":30,"time":1687468214693,"action":"access home page"}
+{"level":30,"time":1687468214853,"action":"send places with categories","placeName":"the ain draham mountains","categoryName":"rural"}
+{"level":30,"time":1687468214881,"action":"send places with categories","placeName":"the ribat of sousse","categoryName":"culturel"}
+{"level":30,"time":1687468214933,"action":"send places with categories","placeName":"the ribat of sousse","categoryName":"adventure"}
+{"level":30,"time":1687468214940,"action":"send places with categories","placeName":"dar essid museum","categoryName":"culturel"}
+{"level":30,"time":1687468214960,"action":"send places with categories","placeName":"port el kantaoui","categoryName":"training"}
+{"level":30,"time":1687468214965,"action":"send places with categories","placeName":"port el kantaoui","categoryName":"adventure"}
+{"level":30,"time":1687468214969,"action":"send places with categories","placeName":"skifa el kahla","categoryName":"culturel"}
+{"level":30,"time":1687468214976,"action":"send places with categories","placeName":"skifa el kahla","categoryName":"training"}
+{"level":30,"time":1687468214982,"action":"send places with categories","placeName":"zitouna mosque","categoryName":"culturel"}
+{"level":30,"time":1687468214989,"action":"send places with categories","placeName":"zitouna mosque","categoryName":"religious"}
+{"level":30,"time":1687468215004,"action":"send places with categories","placeName":"la galite islands","categoryName":"nature"}
+{"level":30,"time":1687468215006,"action":"Top likes number 5","placeName":"dar essid museum","likesNumber":"5"}
+{"level":30,"time":1687468215011,"action":"send places with categories","placeName":"la galite islands","categoryName":"adventure"}
+{"level":30,"time":1687468215020,"action":"send places with categories","placeName":"tabarka genoese fort","categoryName":"rural"}
+{"level":30,"time":1687468215022,"action":"send places with categories","placeName":"tabarka genoese fort","categoryName":"nature"}
+{"level":30,"time":1687468227347,"action":"user go to  Safari voyages agency"}
+{"level":30,"time":1687468235756,"action":"send places with categories","placeName":"the ain draham mountains","categoryName":"rural"}
+{"level":30,"time":1687468235760,"action":"send places with categories","placeName":"dar essid museum","categoryName":"culturel"}
+{"level":30,"time":1687468235761,"action":"send places with categories","placeName":"port el kantaoui","categoryName":"training"}
+{"level":30,"time":1687468235774,"action":"send places with categories","placeName":"the ribat of sousse","categoryName":"adventure"}
+{"level":30,"time":1687468235781,"action":"send places with categories","placeName":"the ribat of sousse","categoryName":"culturel"}
+{"level":30,"time":1687468235783,"action":"send places with categories","placeName":"zitouna mosque","categoryName":"religious"}
+{"level":30,"time":1687468235786,"action":"send places with categories","placeName":"port el kantaoui","categoryName":"adventure"}
+{"level":30,"time":1687468235789,"action":"send places with categories","placeName":"skifa el kahla","categoryName":"culturel"}
+{"level":30,"time":1687468235791,"action":"send places with categories","placeName":"skifa el kahla","categoryName":"training"}
+{"level":30,"time":1687468235794,"action":"Top likes number 5","placeName":"dar essid museum","likesNumber":"5"}
+{"level":30,"time":1687468235796,"action":"send places with categories","placeName":"zitouna mosque","categoryName":"culturel"}
+{"level":30,"time":1687468235808,"action":"send places with categories","placeName":"la galite islands","categoryName":"adventure"}
+{"level":30,"time":1687468235812,"action":"send places with categories","placeName":"la galite islands","categoryName":"nature"}
+{"level":30,"time":1687468235816,"action":"send places with categories","placeName":"tabarka genoese fort","categoryName":"rural"}
+{"level":30,"time":1687468235817,"action":"send places with categories","placeName":"tabarka genoese fort","categoryName":"nature"}
+{"level":30,"time":1687473515322,"action":"access home page"}
+{"level":30,"time":1687473517312,"action":" access activities page"}
+{"level":30,"time":1687473517967,"action":"access home page"}
+{"level":30,"time":1687473518039,"action":"send places with categories","placeName":"the ain draham mountains","categoryName":"rural"}
+{"level":30,"time":1687473518043,"action":"send places with categories","placeName":"the ribat of sousse","categoryName":"adventure"}
+{"level":30,"time":1687473518046,"action":"send places with categories","placeName":"the ribat of sousse","categoryName":"culturel"}
+{"level":30,"time":1687473518047,"action":"send places with categories","placeName":"dar essid museum","categoryName":"culturel"}
+{"level":30,"time":1687473518051,"action":"send places with categories","placeName":"port el kantaoui","categoryName":"training"}
+{"level":30,"time":1687473518053,"action":"send places with categories","placeName":"port el kantaoui","categoryName":"adventure"}
+{"level":30,"time":1687473518055,"action":"send places with categories","placeName":"skifa el kahla","categoryName":"culturel"}
+{"level":30,"time":1687473518059,"action":"send places with categories","placeName":"skifa el kahla","categoryName":"training"}
+{"level":30,"time":1687473518063,"action":"send places with categories","placeName":"zitouna mosque","categoryName":"culturel"}
+{"level":30,"time":1687473518065,"action":"send places with categories","placeName":"zitouna mosque","categoryName":"religious"}
+{"level":30,"time":1687473518067,"action":"send places with categories","placeName":"la galite islands","categoryName":"nature"}
+{"level":30,"time":1687473518071,"action":"Top likes number 5","placeName":"dar essid museum","likesNumber":"5"}
+{"level":30,"time":1687473518074,"action":"send places with categories","placeName":"la galite islands","categoryName":"adventure"}
+{"level":30,"time":1687473518078,"action":"send places with categories","placeName":"tabarka genoese fort","categoryName":"rural"}
+{"level":30,"time":1687473518081,"action":"send places with categories","placeName":"tabarka genoese fort","categoryName":"nature"}
+{"level":30,"time":1687473519409,"action":" access activities page"}
+{"level":30,"time":1687473520207,"action":"access cities page"}
+{"level":30,"time":1687473521368,"action":"access places page"}
+{"level":30,"time":1687473522840,"action":"access map page"}
+{"level":30,"time":1687473525873,"action":"access home page"}
+{"level":30,"time":1687473525924,"action":"send places with categories","placeName":"the ain draham mountains","categoryName":"rural"}
+{"level":30,"time":1687473525927,"action":"send places with categories","placeName":"the ribat of sousse","categoryName":"culturel"}
+{"level":30,"time":1687473525930,"action":"send places with categories","placeName":"the ribat of sousse","categoryName":"adventure"}
+{"level":30,"time":1687473525932,"action":"send places with categories","placeName":"dar essid museum","categoryName":"culturel"}
+{"level":30,"time":1687473525936,"action":"send places with categories","placeName":"port el kantaoui","categoryName":"training"}
+{"level":30,"time":1687473525940,"action":"send places with categories","placeName":"port el kantaoui","categoryName":"adventure"}
+{"level":30,"time":1687473525944,"action":"send places with categories","placeName":"skifa el kahla","categoryName":"culturel"}
+{"level":30,"time":1687473525946,"action":"send places with categories","placeName":"skifa el kahla","categoryName":"training"}
+{"level":30,"time":1687473525948,"action":"send places with categories","placeName":"zitouna mosque","categoryName":"culturel"}
+{"level":30,"time":1687473525951,"action":"send places with categories","placeName":"zitouna mosque","categoryName":"religious"}
+{"level":30,"time":1687473525953,"action":"send places with categories","placeName":"la galite islands","categoryName":"nature"}
+{"level":30,"time":1687473525956,"action":"Top likes number 5","placeName":"dar essid museum","likesNumber":"5"}
+{"level":30,"time":1687473525958,"action":"send places with categories","placeName":"la galite islands","categoryName":"adventure"}
+{"level":30,"time":1687473525960,"action":"send places with categories","placeName":"tabarka genoese fort","categoryName":"rural"}
+{"level":30,"time":1687473525962,"action":"send places with categories","placeName":"tabarka genoese fort","categoryName":"nature"}
+{"level":30,"time":1687473527359,"action":" access activities page"}
+{"level":30,"time":1687473528441,"action":"access cities page"}
+{"level":30,"time":1687473529599,"action":"access places page"}
+{"level":30,"time":1687473530467,"action":"access cities page"}
+{"level":30,"time":1687473531352,"action":" access activities page"}
+{"level":30,"time":1687475269662,"action":"access home page"}
+{"level":30,"time":1687475269711,"action":"send places with categories","placeName":"the ain draham mountains","categoryName":"rural"}
+{"level":30,"time":1687475269728,"action":"send places with categories","placeName":"the ribat of sousse","categoryName":"culturel"}
+{"level":30,"time":1687475269739,"action":"send places with categories","placeName":"the ribat of sousse","categoryName":"adventure"}
+{"level":30,"time":1687475269746,"action":"send places with categories","placeName":"dar essid museum","categoryName":"culturel"}
+{"level":30,"time":1687475269751,"action":"send places with categories","placeName":"port el kantaoui","categoryName":"training"}
+{"level":30,"time":1687475269757,"action":"send places with categories","placeName":"port el kantaoui","categoryName":"adventure"}
+{"level":30,"time":1687475269760,"action":"send places with categories","placeName":"skifa el kahla","categoryName":"culturel"}
+{"level":30,"time":1687475269763,"action":"send places with categories","placeName":"skifa el kahla","categoryName":"training"}
+{"level":30,"time":1687475269766,"action":"send places with categories","placeName":"zitouna mosque","categoryName":"culturel"}
+{"level":30,"time":1687475269768,"action":"send places with categories","placeName":"zitouna mosque","categoryName":"religious"}
+{"level":30,"time":1687475269771,"action":"send places with categories","placeName":"la galite islands","categoryName":"nature"}
+{"level":30,"time":1687475269775,"action":"Top likes number 5","placeName":"dar essid museum","likesNumber":"5"}
+{"level":30,"time":1687475269780,"action":"send places with categories","placeName":"la galite islands","categoryName":"adventure"}
+{"level":30,"time":1687475269785,"action":"send places with categories","placeName":"tabarka genoese fort","categoryName":"rural"}
+{"level":30,"time":1687475269789,"action":"send places with categories","placeName":"tabarka genoese fort","categoryName":"nature"}
+{"level":30,"time":1687475270621,"action":"access home page"}
+{"level":30,"time":1687475271893,"action":" access activities page"}
+{"level":30,"time":1687475316849,"action":"access hiking page","idActivity":"645e444b8eb9155ecc07e10d","activityName":"hiking"}
+{"level":30,"time":1687505848251,"action":"access home page"}
+{"level":30,"time":1687505848333,"action":"send places with categories","placeName":"the ain draham mountains","categoryName":"rural"}
+{"level":30,"time":1687505848336,"action":"send places with categories","placeName":"the ribat of sousse","categoryName":"culturel"}
+{"level":30,"time":1687505848339,"action":"send places with categories","placeName":"the ribat of sousse","categoryName":"adventure"}
+{"level":30,"time":1687505848342,"action":"send places with categories","placeName":"dar essid museum","categoryName":"culturel"}
+{"level":30,"time":1687505848345,"action":"send places with categories","placeName":"port el kantaoui","categoryName":"training"}
+{"level":30,"time":1687505848349,"action":"send places with categories","placeName":"port el kantaoui","categoryName":"adventure"}
+{"level":30,"time":1687505848352,"action":"send places with categories","placeName":"skifa el kahla","categoryName":"culturel"}
+{"level":30,"time":1687505848357,"action":"send places with categories","placeName":"skifa el kahla","categoryName":"training"}
+{"level":30,"time":1687505848359,"action":"send places with categories","placeName":"zitouna mosque","categoryName":"culturel"}
+{"level":30,"time":1687505848362,"action":"send places with categories","placeName":"zitouna mosque","categoryName":"religious"}
+{"level":30,"time":1687505848365,"action":"send places with categories","placeName":"la galite islands","categoryName":"nature"}
+{"level":30,"time":1687505848367,"action":"Top likes number 5","placeName":"dar essid museum","likesNumber":"5"}
+{"level":30,"time":1687505848370,"action":"send places with categories","placeName":"la galite islands","categoryName":"adventure"}
+{"level":30,"time":1687505848372,"action":"send places with categories","placeName":"tabarka genoese fort","categoryName":"rural"}
+{"level":30,"time":1687505848375,"action":"send places with categories","placeName":"tabarka genoese fort","categoryName":"nature"}
+{"level":30,"time":1687505873456,"action":"explores places that fall under rural  categories.","idCategory":"645e2420385666e8ea9fe98b","categoryName":"rural"}
+{"level":30,"time":1687505874587,"action":"explores places that fall under training  categories.","idCategory":"645e415b8eb9155ecc07cf0b","categoryName":"training"}
+{"level":30,"time":1687505876156,"action":"explores places that fall under nature  categories.","idCategory":"645e41648eb9155ecc07cf47","categoryName":"nature"}
+{"level":30,"time":1687505877609,"action":"explores places that fall under religious  categories.","idCategory":"645e41698eb9155ecc07cf69","categoryName":"religious"}
+{"level":30,"time":1687505878424,"action":"explores places that fall under adventure  categories.","idCategory":"645e41708eb9155ecc07cf91","categoryName":"adventure"}
+{"level":30,"time":1687505882864,"action":"explores places that fall under culturel  categories.","idCategory":"645bbcbe3456f78413d0a006","categoryName":"culturel"}
+{"level":30,"time":1687505883705,"action":"explores places that fall under culturel  categories.","idCategory":"645bbcbe3456f78413d0a006","categoryName":"culturel"}
+{"level":30,"time":1687505893894,"action":"access Dar Essid Museum page","idPlace":"6474c012b1dea38fb6be409b","paceName":"dar essid museum"}
+{"level":30,"time":1687505896625,"action":"navigate from dar essid museum  to  discover tour activity ","placeName":"dar essid museum","idActivity":"646f490b85984bddf63bc7c5","activityName":"discover tour"}
+{"level":30,"time":1687505911687,"action":"navigate from dar essid museum  to  entertainment activity ","placeName":"dar essid museum","idActivity":"646f4b7285984bddf63bd2ac","activityName":"entertainment"}
+{"level":30,"time":1687505922019,"action":"send places with categories","placeName":"the ribat of sousse","categoryName":"culturel"}
+{"level":30,"time":1687505922025,"action":"send places with categories","placeName":"the ribat of sousse","categoryName":"adventure"}
+{"level":30,"time":1687505922031,"action":"send places with categories","placeName":"dar essid museum","categoryName":"culturel"}
+{"level":30,"time":1687505922037,"action":"send places with categories","placeName":"port el kantaoui","categoryName":"training"}
+{"level":30,"time":1687505922044,"action":"send places with categories","placeName":"port el kantaoui","categoryName":"adventure"}
+{"level":30,"time":1687505922055,"action":"send places with categories","placeName":"skifa el kahla","categoryName":"culturel"}
+{"level":30,"time":1687505922061,"action":"send places with categories","placeName":"skifa el kahla","categoryName":"training"}
+{"level":30,"time":1687505922067,"action":"send places with categories","placeName":"zitouna mosque","categoryName":"culturel"}
+{"level":30,"time":1687505922073,"action":"send places with categories","placeName":"zitouna mosque","categoryName":"religious"}
+{"level":30,"time":1687505922077,"action":"send places with categories","placeName":"la galite islands","categoryName":"nature"}
+{"level":30,"time":1687505922082,"action":"Top likes number 5","placeName":"dar essid museum","likesNumber":"5"}
+{"level":30,"time":1687505922087,"action":"send places with categories","placeName":"la galite islands","categoryName":"adventure"}
+{"level":30,"time":1687505922094,"action":"send places with categories","placeName":"tabarka genoese fort","categoryName":"rural"}
+{"level":30,"time":1687505922100,"action":"send places with categories","placeName":"tabarka genoese fort","categoryName":"nature"}
+{"level":30,"time":1687505926923,"action":"access Zitouna Mosque page","idPlace":"646f5cf885984bddf63bd6ac","paceName":"zitouna mosque"}
+{"level":30,"time":1687505934402,"action":"send places with categories","placeName":"the ribat of sousse","categoryName":"culturel"}
+{"level":30,"time":1687505934406,"action":"send places with categories","placeName":"the ribat of sousse","categoryName":"adventure"}
+{"level":30,"time":1687505934411,"action":"send places with categories","placeName":"dar essid museum","categoryName":"culturel"}
+{"level":30,"time":1687505934422,"action":"send places with categories","placeName":"port el kantaoui","categoryName":"training"}
+{"level":30,"time":1687505934430,"action":"send places with categories","placeName":"port el kantaoui","categoryName":"adventure"}
+{"level":30,"time":1687505934442,"action":"send places with categories","placeName":"skifa el kahla","categoryName":"culturel"}
+{"level":30,"time":1687505934449,"action":"send places with categories","placeName":"skifa el kahla","categoryName":"training"}
+{"level":30,"time":1687505934457,"action":"send places with categories","placeName":"zitouna mosque","categoryName":"culturel"}
+{"level":30,"time":1687505934466,"action":"send places with categories","placeName":"zitouna mosque","categoryName":"religious"}
+{"level":30,"time":1687505934479,"action":"send places with categories","placeName":"la galite islands","categoryName":"nature"}
+{"level":30,"time":1687505934495,"action":"Top likes number 5","placeName":"dar essid museum","likesNumber":"5"}
+{"level":30,"time":1687505934517,"action":"send places with categories","placeName":"la galite islands","categoryName":"adventure"}
+{"level":30,"time":1687505934518,"action":"send places with categories","placeName":"tabarka genoese fort","categoryName":"rural"}
+{"level":30,"time":1687505934526,"action":"send places with categories","placeName":"tabarka genoese fort","categoryName":"nature"}
+{"level":30,"time":1687505940281,"action":" access activities page"}
+{"level":30,"time":1687505942944,"action":"access hiking page","idActivity":"645e444b8eb9155ecc07e10d","activityName":"hiking"}
+{"level":30,"time":1687506126247,"action":"access home page"}
+{"level":30,"time":1687506126311,"action":"send places with categories","placeName":"the ribat of sousse","categoryName":"culturel"}
+{"level":30,"time":1687506126314,"action":"send places with categories","placeName":"the ribat of sousse","categoryName":"adventure"}
+{"level":30,"time":1687506126316,"action":"send places with categories","placeName":"dar essid museum","categoryName":"culturel"}
+{"level":30,"time":1687506126319,"action":"send places with categories","placeName":"port el kantaoui","categoryName":"training"}
+{"level":30,"time":1687506126324,"action":"send places with categories","placeName":"port el kantaoui","categoryName":"adventure"}
+{"level":30,"time":1687506126330,"action":"send places with categories","placeName":"skifa el kahla","categoryName":"culturel"}
+{"level":30,"time":1687506126333,"action":"send places with categories","placeName":"skifa el kahla","categoryName":"training"}
+{"level":30,"time":1687506126335,"action":"send places with categories","placeName":"zitouna mosque","categoryName":"culturel"}
+{"level":30,"time":1687506126338,"action":"send places with categories","placeName":"zitouna mosque","categoryName":"religious"}
+{"level":30,"time":1687506126341,"action":"send places with categories","placeName":"la galite islands","categoryName":"nature"}
+{"level":30,"time":1687506126344,"action":"Top likes number 5","placeName":"dar essid museum","likesNumber":"5"}
+{"level":30,"time":1687506126347,"action":"send places with categories","placeName":"la galite islands","categoryName":"adventure"}
+{"level":30,"time":1687506126349,"action":"send places with categories","placeName":"tabarka genoese fort","categoryName":"rural"}
+{"level":30,"time":1687506126352,"action":"send places with categories","placeName":"tabarka genoese fort","categoryName":"nature"}
+{"level":30,"time":1687506202940,"action":"access sign up page"}
+{"level":30,"time":1687506275044,"action":"create account","userFullName":"alaa ben hammouda","nationality":"tunisia","age":"30"}
+{"level":30,"time":1687506301469,"action":"access sign up page"}
+{"level":30,"time":1687506340299,"action":"create account","userFullName":"douaa ben hammouda","nationality":"","age":"1"}
+{"level":30,"time":1687506346642,"action":"access sign up page"}
+{"level":30,"time":1687506394274,"action":"create account","userFullName":"douaa ben hammouda","nationality":"china","age":"26"}
+{"level":30,"time":1687506419195,"action":"access sign up page"}
+{"level":30,"time":1687506496243,"action":"create account","userFullName":"mouhamed nasseri","nationality":"morocco","age":"18"}
+{"level":30,"time":1687506539268,"action":"login","idUser":"64954e3e9b703cb58d14538d","userFullName":"mouhamed nasseri","nationality":"morocco"}
+{"level":30,"time":1687506539481,"action":"send places with categories","placeName":"the ribat of sousse","categoryName":"culturel"}
+{"level":30,"time":1687506539483,"action":"send places with categories","placeName":"the ribat of sousse","categoryName":"adventure"}
+{"level":30,"time":1687506539486,"action":"send places with categories","placeName":"dar essid museum","categoryName":"culturel"}
+{"level":30,"time":1687506539490,"action":"send places with categories","placeName":"port el kantaoui","categoryName":"training"}
+{"level":30,"time":1687506539493,"action":"send places with categories","placeName":"port el kantaoui","categoryName":"adventure"}
+{"level":30,"time":1687506539494,"action":"send places with categories","placeName":"skifa el kahla","categoryName":"culturel"}
+{"level":30,"time":1687506539496,"action":"send places with categories","placeName":"skifa el kahla","categoryName":"training"}
+{"level":30,"time":1687506539497,"action":"send places with categories","placeName":"zitouna mosque","categoryName":"culturel"}
+{"level":30,"time":1687506539498,"action":"send places with categories","placeName":"zitouna mosque","categoryName":"religious"}
+{"level":30,"time":1687506539499,"action":"send places with categories","placeName":"la galite islands","categoryName":"nature"}
+{"level":30,"time":1687506539501,"action":"Top likes number 5","placeName":"dar essid museum","likesNumber":"5"}
+{"level":30,"time":1687506539503,"action":"send places with categories","placeName":"tabarka genoese fort","categoryName":"rural"}
+{"level":30,"time":1687506539504,"action":"send places with categories","placeName":"la galite islands","categoryName":"adventure"}
+{"level":30,"time":1687506539505,"action":"send places with categories","placeName":"tabarka genoese fort","categoryName":"nature"}
+{"level":30,"time":1687506544453,"action":"access Dar Essid Museum page","idUser":"64954e3e9b703cb58d14538d","userFullName":"mouhamed nasseri","idPlace":"6474c012b1dea38fb6be409b","placeName":"dar essid museum"}
+{"level":30,"time":1687506553191,"action":"rate discover tour activity  dar essid museum  ","idUser":"64954e3e9b703cb58d14538d","userFullName":"mouhamed nasseri","idPlace":"64954e3e9b703cb58d14538d","placeName":"dar essid museum","idActivity":"646f490b85984bddf63bc7c5","activityName":"discover tour"}
+{"level":30,"time":1687506645392,"action":"logout","idUser":"64954e3e9b703cb58d14538d","userFullName":"mouhamed nasseri"}
+{"level":30,"time":1687506645678,"action":"send places with categories","placeName":"the ribat of sousse","categoryName":"culturel"}
+{"level":30,"time":1687506645679,"action":"send places with categories","placeName":"the ribat of sousse","categoryName":"adventure"}
+{"level":30,"time":1687506645679,"action":"send places with categories","placeName":"dar essid museum","categoryName":"culturel"}
+{"level":30,"time":1687506645680,"action":"send places with categories","placeName":"port el kantaoui","categoryName":"training"}
+{"level":30,"time":1687506645682,"action":"send places with categories","placeName":"port el kantaoui","categoryName":"adventure"}
+{"level":30,"time":1687506645683,"action":"send places with categories","placeName":"skifa el kahla","categoryName":"culturel"}
+{"level":30,"time":1687506645691,"action":"send places with categories","placeName":"skifa el kahla","categoryName":"training"}
+{"level":30,"time":1687506645692,"action":"send places with categories","placeName":"zitouna mosque","categoryName":"culturel"}
+{"level":30,"time":1687506645692,"action":"send places with categories","placeName":"zitouna mosque","categoryName":"religious"}
+{"level":30,"time":1687506645700,"action":"send places with categories","placeName":"la galite islands","categoryName":"adventure"}
+{"level":30,"time":1687506645701,"action":"send places with categories","placeName":"la galite islands","categoryName":"nature"}
+{"level":30,"time":1687506645704,"action":"Top likes number 5","placeName":"dar essid museum","likesNumber":"5"}
+{"level":30,"time":1687506645709,"action":"send places with categories","placeName":"tabarka genoese fort","categoryName":"rural"}
+{"level":30,"time":1687506645709,"action":"send places with categories","placeName":"tabarka genoese fort","categoryName":"nature"}
+{"level":30,"time":1687506656588,"action":"send places with categories","placeName":"the ribat of sousse","categoryName":"culturel"}
+{"level":30,"time":1687506656593,"action":"send places with categories","placeName":"la galite islands","categoryName":"adventure"}
+{"level":30,"time":1687506656602,"action":"send places with categories","placeName":"tabarka genoese fort","categoryName":"rural"}
+{"level":30,"time":1687506656606,"action":"send places with categories","placeName":"tabarka genoese fort","categoryName":"nature"}
+{"level":30,"time":1687506656614,"action":"send places with categories","placeName":"the ribat of sousse","categoryName":"adventure"}
+{"level":30,"time":1687506656622,"action":"send places with categories","placeName":"dar essid museum","categoryName":"culturel"}
+{"level":30,"time":1687506656625,"action":"send places with categories","placeName":"port el kantaoui","categoryName":"training"}
+{"level":30,"time":1687506656632,"action":"send places with categories","placeName":"port el kantaoui","categoryName":"adventure"}
+{"level":30,"time":1687506656637,"action":"send places with categories","placeName":"skifa el kahla","categoryName":"culturel"}
+{"level":30,"time":1687506656641,"action":"send places with categories","placeName":"skifa el kahla","categoryName":"training"}
+{"level":30,"time":1687506656645,"action":"send places with categories","placeName":"zitouna mosque","categoryName":"culturel"}
+{"level":30,"time":1687506656649,"action":"send places with categories","placeName":"zitouna mosque","categoryName":"religious"}
+{"level":30,"time":1687506656652,"action":"send places with categories","placeName":"la galite islands","categoryName":"nature"}
+{"level":30,"time":1687506656656,"action":"Top likes number 5","placeName":"dar essid museum","likesNumber":"5"}
+{"level":30,"time":1687506698804,"action":"explores places that fall under culturel  categories.","idCategory":"645bbcbe3456f78413d0a006","categoryName":"culturel"}
+{"level":30,"time":1687506699951,"action":"explores places that fall under rural  categories.","idCategory":"645e2420385666e8ea9fe98b","categoryName":"rural"}
+{"level":30,"time":1687506700858,"action":"explores places that fall under training  categories.","idCategory":"645e415b8eb9155ecc07cf0b","categoryName":"training"}
+{"level":30,"time":1687506701788,"action":"explores places that fall under nature  categories.","idCategory":"645e41648eb9155ecc07cf47","categoryName":"nature"}
+{"level":30,"time":1687506702474,"action":"explores places that fall under religious  categories.","idCategory":"645e41698eb9155ecc07cf69","categoryName":"religious"}
+{"level":30,"time":1687506705082,"action":" access activities page"}
+{"level":30,"time":1687506707014,"action":"access discover tour page","idActivity":"646f490b85984bddf63bc7c5","activityName":"discover tour"}
+{"level":30,"time":1687506717305,"action":"access cities page"}
+{"level":30,"time":1687506722401,"action":"access mahdia page","idCity":"645e16e2385666e8ea9fc8ff","cityName":"mahdia"}
+{"level":30,"time":1687506728657,"action":"access map page"}
+{"level":30,"time":1687506753253,"action":"access sign in page"}
+{"level":30,"time":1687506766135,"action":"login","idUser":"64954e3e9b703cb58d14538d","userFullName":"mouhamed nasseri","nationality":"morocco"}
+{"level":30,"time":1687506766373,"action":"send places with categories","placeName":"the ribat of sousse","categoryName":"culturel"}
+{"level":30,"time":1687506766377,"action":"send places with categories","placeName":"the ribat of sousse","categoryName":"adventure"}
+{"level":30,"time":1687506766378,"action":"send places with categories","placeName":"dar essid museum","categoryName":"culturel"}
+{"level":30,"time":1687506766380,"action":"send places with categories","placeName":"port el kantaoui","categoryName":"training"}
+{"level":30,"time":1687506766382,"action":"send places with categories","placeName":"port el kantaoui","categoryName":"adventure"}
+{"level":30,"time":1687506766384,"action":"send places with categories","placeName":"skifa el kahla","categoryName":"culturel"}
+{"level":30,"time":1687506766391,"action":"send places with categories","placeName":"zitouna mosque","categoryName":"culturel"}
+{"level":30,"time":1687506766393,"action":"send places with categories","placeName":"skifa el kahla","categoryName":"training"}
+{"level":30,"time":1687506766394,"action":"send places with categories","placeName":"zitouna mosque","categoryName":"religious"}
+{"level":30,"time":1687506766396,"action":"send places with categories","placeName":"la galite islands","categoryName":"nature"}
+{"level":30,"time":1687506766398,"action":"Top likes number 5","placeName":"dar essid museum","likesNumber":"5"}
+{"level":30,"time":1687506766409,"action":"send places with categories","placeName":"la galite islands","categoryName":"adventure"}
+{"level":30,"time":1687506766412,"action":"send places with categories","placeName":"tabarka genoese fort","categoryName":"rural"}
+{"level":30,"time":1687506766413,"action":"send places with categories","placeName":"tabarka genoese fort","categoryName":"nature"}
+{"level":30,"time":1687506769869,"action":"add a rate to dar essid museum page","idUser":"64954e3e9b703cb58d14538d","userFullName":"mouhamed nasseri","idPlace":"6474c012b1dea38fb6be409b","placeName":"dar essid museum"}
+{"level":30,"time":1687506774245,"action":"add dar essid museum to bucket list ","idUser":"64954e3e9b703cb58d14538d","userFullName":"mouhamed nasseri","idPlace":"6474c012b1dea38fb6be409b","placeName":"dar essid museum"}
+{"level":30,"time":1687506777288,"action":"access profile page","idUser":"64954e3e9b703cb58d14538d","userFullName":"mouhamed nasseri"}
+{"level":30,"time":1687506782633,"action":"add a rate to dar essid museum page","idUser":"64954e3e9b703cb58d14538d","userFullName":"mouhamed nasseri","idPlace":"6474c012b1dea38fb6be409b","placeName":"dar essid museum"}
+{"level":30,"time":1687506809190,"action":"access home page","idUser":"64954e3e9b703cb58d14538d","userFullName":"mouhamed nasseri"}
+{"level":30,"time":1687506809572,"action":"send places with categories","placeName":"the ribat of sousse","categoryName":"culturel"}
+{"level":30,"time":1687506809573,"action":"send places with categories","placeName":"the ribat of sousse","categoryName":"adventure"}
+{"level":30,"time":1687506809574,"action":"send places with categories","placeName":"dar essid museum","categoryName":"culturel"}
+{"level":30,"time":1687506809575,"action":"send places with categories","placeName":"port el kantaoui","categoryName":"training"}
+{"level":30,"time":1687506809576,"action":"send places with categories","placeName":"port el kantaoui","categoryName":"adventure"}
+{"level":30,"time":1687506809577,"action":"send places with categories","placeName":"skifa el kahla","categoryName":"culturel"}
+{"level":30,"time":1687506809580,"action":"send places with categories","placeName":"skifa el kahla","categoryName":"training"}
+{"level":30,"time":1687506809582,"action":"send places with categories","placeName":"la galite islands","categoryName":"nature"}
+{"level":30,"time":1687506809584,"action":"send places with categories","placeName":"zitouna mosque","categoryName":"religious"}
+{"level":30,"time":1687506809585,"action":"send places with categories","placeName":"zitouna mosque","categoryName":"culturel"}
+{"level":30,"time":1687506809586,"action":"Top likes number 5","placeName":"dar essid museum","likesNumber":"5"}
+{"level":30,"time":1687506809589,"action":"send places with categories","placeName":"la galite islands","categoryName":"adventure"}
+{"level":30,"time":1687506809591,"action":"send places with categories","placeName":"tabarka genoese fort","categoryName":"rural"}
+{"level":30,"time":1687506809592,"action":"send places with categories","placeName":"tabarka genoese fort","categoryName":"nature"}
+{"level":30,"time":1687506816759,"action":"access places page","idUser":"64954e3e9b703cb58d14538d","userFullName":"mouhamed nasseri"}
+{"level":30,"time":1687506843513,"action":"access home page","idUser":"64954e3e9b703cb58d14538d","userFullName":"mouhamed nasseri"}
+{"level":30,"time":1687506843624,"action":"send places with categories","placeName":"the ribat of sousse","categoryName":"culturel"}
+{"level":30,"time":1687506843626,"action":"send places with categories","placeName":"the ribat of sousse","categoryName":"adventure"}
+{"level":30,"time":1687506843629,"action":"send places with categories","placeName":"dar essid museum","categoryName":"culturel"}
+{"level":30,"time":1687506843632,"action":"send places with categories","placeName":"port el kantaoui","categoryName":"training"}
+{"level":30,"time":1687506843635,"action":"send places with categories","placeName":"port el kantaoui","categoryName":"adventure"}
+{"level":30,"time":1687506843638,"action":"send places with categories","placeName":"skifa el kahla","categoryName":"culturel"}
+{"level":30,"time":1687506843642,"action":"send places with categories","placeName":"skifa el kahla","categoryName":"training"}
+{"level":30,"time":1687506843644,"action":"send places with categories","placeName":"zitouna mosque","categoryName":"culturel"}
+{"level":30,"time":1687506843648,"action":"send places with categories","placeName":"zitouna mosque","categoryName":"religious"}
+{"level":30,"time":1687506843651,"action":"send places with categories","placeName":"la galite islands","categoryName":"nature"}
+{"level":30,"time":1687506843653,"action":"Top likes number 5","placeName":"dar essid museum","likesNumber":"5"}
+{"level":30,"time":1687506843656,"action":"send places with categories","placeName":"la galite islands","categoryName":"adventure"}
+{"level":30,"time":1687506843658,"action":"send places with categories","placeName":"tabarka genoese fort","categoryName":"rural"}
+{"level":30,"time":1687506843661,"action":"send places with categories","placeName":"tabarka genoese fort","categoryName":"nature"}
+{"level":30,"time":1687506856023,"action":"access The Ribat of Sousse page","idUser":"64954e3e9b703cb58d14538d","userFullName":"mouhamed nasseri","idPlace":"6474c080b1dea38fb6be40be","placeName":"the ribat of sousse"}
+{"level":30,"time":1687506892286,"action":"logout","idUser":"64954e3e9b703cb58d14538d","userFullName":"mouhamed nasseri"}
+{"level":30,"time":1687506892335,"action":"send places with categories","placeName":"the ribat of sousse","categoryName":"culturel"}
+{"level":30,"time":1687506892337,"action":"send places with categories","placeName":"the ribat of sousse","categoryName":"adventure"}
+{"level":30,"time":1687506892340,"action":"send places with categories","placeName":"dar essid museum","categoryName":"culturel"}
+{"level":30,"time":1687506892344,"action":"send places with categories","placeName":"port el kantaoui","categoryName":"training"}
+{"level":30,"time":1687506892349,"action":"send places with categories","placeName":"port el kantaoui","categoryName":"adventure"}
+{"level":30,"time":1687506892354,"action":"send places with categories","placeName":"skifa el kahla","categoryName":"culturel"}
+{"level":30,"time":1687506892357,"action":"send places with categories","placeName":"skifa el kahla","categoryName":"training"}
+{"level":30,"time":1687506892363,"action":"send places with categories","placeName":"zitouna mosque","categoryName":"culturel"}
+{"level":30,"time":1687506892366,"action":"send places with categories","placeName":"zitouna mosque","categoryName":"religious"}
+{"level":30,"time":1687506892369,"action":"send places with categories","placeName":"la galite islands","categoryName":"nature"}
+{"level":30,"time":1687506892371,"action":"Top likes number 5","placeName":"dar essid museum","likesNumber":"5"}
+{"level":30,"time":1687506892374,"action":"send places with categories","placeName":"la galite islands","categoryName":"adventure"}
+{"level":30,"time":1687506892376,"action":"send places with categories","placeName":"tabarka genoese fort","categoryName":"rural"}
+{"level":30,"time":1687506892378,"action":"send places with categories","placeName":"tabarka genoese fort","categoryName":"nature"}
+{"level":30,"time":1687506893327,"action":"access home page"}
+{"level":30,"time":1687506917764,"action":"explores places that fall under rural  categories.","idCategory":"645e2420385666e8ea9fe98b","categoryName":"rural"}
+{"level":30,"time":1687506918498,"action":"explores places that fall under training  categories.","idCategory":"645e415b8eb9155ecc07cf0b","categoryName":"training"}
+{"level":30,"time":1687506919564,"action":"explores places that fall under adventure  categories.","idCategory":"645e41708eb9155ecc07cf91","categoryName":"adventure"}
+{"level":30,"time":1687506921618,"action":" access activities page"}
+{"level":30,"time":1687506923544,"action":"access discover tour page","idActivity":"646f490b85984bddf63bc7c5","activityName":"discover tour"}
+{"level":30,"time":1687506927958,"action":"access Dar Essid Museum page","idPlace":"6474c012b1dea38fb6be409b","paceName":"dar essid museum"}
+{"level":30,"time":1687506935287,"action":"access map page"}
+{"level":30,"time":1687506937119,"action":"access cities page"}
+{"level":30,"time":1687506945321,"action":"access home page"}
+{"level":30,"time":1687506945383,"action":"send places with categories","placeName":"the ribat of sousse","categoryName":"culturel"}
+{"level":30,"time":1687506945388,"action":"send places with categories","placeName":"the ribat of sousse","categoryName":"adventure"}
+{"level":30,"time":1687506945402,"action":"send places with categories","placeName":"dar essid museum","categoryName":"culturel"}
+{"level":30,"time":1687506945411,"action":"send places with categories","placeName":"port el kantaoui","categoryName":"training"}
+{"level":30,"time":1687506945426,"action":"send places with categories","placeName":"skifa el kahla","categoryName":"culturel"}
+{"level":30,"time":1687506945426,"action":"send places with categories","placeName":"port el kantaoui","categoryName":"adventure"}
+{"level":30,"time":1687506945432,"action":"send places with categories","placeName":"skifa el kahla","categoryName":"training"}
+{"level":30,"time":1687506945433,"action":"send places with categories","placeName":"zitouna mosque","categoryName":"culturel"}
+{"level":30,"time":1687506945436,"action":"send places with categories","placeName":"zitouna mosque","categoryName":"religious"}
+{"level":30,"time":1687506945438,"action":"send places with categories","placeName":"la galite islands","categoryName":"nature"}
+{"level":30,"time":1687506945440,"action":"Top likes number 5","placeName":"dar essid museum","likesNumber":"5"}
+{"level":30,"time":1687506945442,"action":"send places with categories","placeName":"la galite islands","categoryName":"adventure"}
+{"level":30,"time":1687506945444,"action":"send places with categories","placeName":"tabarka genoese fort","categoryName":"rural"}
+{"level":30,"time":1687506945446,"action":"send places with categories","placeName":"tabarka genoese fort","categoryName":"nature"}
+{"level":30,"time":1687506966947,"action":"access discover tour page","idActivity":"646f490b85984bddf63bc7c5","activityName":"discover tour"}
+{"level":30,"time":1687506973690,"action":"access Dar Essid Museum page","idPlace":"6474c012b1dea38fb6be409b","paceName":"dar essid museum"}
+{"level":30,"time":1687506982207,"action":"access cities page"}
+{"level":30,"time":1687506985436,"action":"access mahdia page","idCity":"645e16e2385666e8ea9fc8ff","cityName":"mahdia"}
+{"level":30,"time":1687506994097,"action":"access map page"}
+{"level":30,"time":1687507013506,"action":"access sign in page"}
+{"level":30,"time":1687507020129,"action":"login","idUser":"64954e3e9b703cb58d14538d","userFullName":"mouhamed nasseri","nationality":"morocco"}
+{"level":30,"time":1687507020348,"action":"send places with categories","placeName":"the ribat of sousse","categoryName":"culturel"}
+{"level":30,"time":1687507020351,"action":"send places with categories","placeName":"the ribat of sousse","categoryName":"adventure"}
+{"level":30,"time":1687507020354,"action":"send places with categories","placeName":"dar essid museum","categoryName":"culturel"}
+{"level":30,"time":1687507020358,"action":"send places with categories","placeName":"port el kantaoui","categoryName":"training"}
+{"level":30,"time":1687507020359,"action":"send places with categories","placeName":"port el kantaoui","categoryName":"adventure"}
+{"level":30,"time":1687507020361,"action":"send places with categories","placeName":"skifa el kahla","categoryName":"culturel"}
+{"level":30,"time":1687507020362,"action":"send places with categories","placeName":"skifa el kahla","categoryName":"training"}
+{"level":30,"time":1687507020364,"action":"send places with categories","placeName":"zitouna mosque","categoryName":"culturel"}
+{"level":30,"time":1687507020366,"action":"send places with categories","placeName":"zitouna mosque","categoryName":"religious"}
+{"level":30,"time":1687507020368,"action":"send places with categories","placeName":"la galite islands","categoryName":"nature"}
+{"level":30,"time":1687507020369,"action":"Top likes number 5","placeName":"dar essid museum","likesNumber":"5"}
+{"level":30,"time":1687507020376,"action":"send places with categories","placeName":"la galite islands","categoryName":"adventure"}
+{"level":30,"time":1687507020381,"action":"send places with categories","placeName":"tabarka genoese fort","categoryName":"rural"}
+{"level":30,"time":1687507020382,"action":"send places with categories","placeName":"tabarka genoese fort","categoryName":"nature"}
+{"level":30,"time":1687507023116,"action":"explores places that fall under culturel categories.","idUser":"64954e3e9b703cb58d14538d","userFullName":"mouhamed nasseri","idCategory":"645bbcbe3456f78413d0a006","categoryName":"culturel"}
+{"level":30,"time":1687507023592,"action":"explores places that fall under rural categories.","idUser":"64954e3e9b703cb58d14538d","userFullName":"mouhamed nasseri","idCategory":"645e2420385666e8ea9fe98b","categoryName":"rural"}
+{"level":30,"time":1687507024823,"action":"explores places that fall under training categories.","idUser":"64954e3e9b703cb58d14538d","userFullName":"mouhamed nasseri","idCategory":"645e415b8eb9155ecc07cf0b","categoryName":"training"}
+{"level":30,"time":1687507025312,"action":"explores places that fall under nature categories.","idUser":"64954e3e9b703cb58d14538d","userFullName":"mouhamed nasseri","idCategory":"645e41648eb9155ecc07cf47","categoryName":"nature"}
+{"level":30,"time":1687507026227,"action":"explores places that fall under religious categories.","idUser":"64954e3e9b703cb58d14538d","userFullName":"mouhamed nasseri","idCategory":"645e41698eb9155ecc07cf69","categoryName":"religious"}
+{"level":30,"time":1687507027986,"action":"explores places that fall under culturel categories.","idUser":"64954e3e9b703cb58d14538d","userFullName":"mouhamed nasseri","idCategory":"645bbcbe3456f78413d0a006","categoryName":"culturel"}
+{"level":30,"time":1687507031368,"action":"add a rate to dar essid museum page","idUser":"64954e3e9b703cb58d14538d","userFullName":"mouhamed nasseri","idPlace":"6474c012b1dea38fb6be409b","placeName":"dar essid museum"}
+{"level":30,"time":1687507035691,"action":"add a rate to dar essid museum page","idUser":"64954e3e9b703cb58d14538d","userFullName":"mouhamed nasseri","idPlace":"6474c012b1dea38fb6be409b","placeName":"dar essid museum"}
+{"level":30,"time":1687507041187,"action":"add dar essid museum to visited list ","idUser":"64954e3e9b703cb58d14538d","userFullName":"mouhamed nasseri","idPlace":"6474c012b1dea38fb6be409b","placeName":"dar essid museum"}
+{"level":30,"time":1687507054575,"action":"logout","idUser":"64954e3e9b703cb58d14538d","userFullName":"mouhamed nasseri"}
+{"level":30,"time":1687507055703,"action":"access home page"}
+{"level":30,"time":1687507056725,"action":"access home page"}
+{"level":30,"time":1687507081895,"action":"explores places that fall under rural  categories.","idCategory":"645e2420385666e8ea9fe98b","categoryName":"rural"}
+{"level":30,"time":1687507082697,"action":"explores places that fall under training  categories.","idCategory":"645e415b8eb9155ecc07cf0b","categoryName":"training"}
+{"level":30,"time":1687507083472,"action":"explores places that fall under nature  categories.","idCategory":"645e41648eb9155ecc07cf47","categoryName":"nature"}
+{"level":30,"time":1687507086126,"action":" access activities page"}
+{"level":30,"time":1687507087485,"action":"access discover tour page","idActivity":"646f490b85984bddf63bc7c5","activityName":"discover tour"}
+{"level":30,"time":1687507091939,"action":"access Dar Essid Museum page","idPlace":"6474c012b1dea38fb6be409b","paceName":"dar essid museum"}
+{"level":30,"time":1687507100510,"action":"access cities page"}
+{"level":30,"time":1687507102566,"action":"access mahdia page","idCity":"645e16e2385666e8ea9fc8ff","cityName":"mahdia"}
+{"level":30,"time":1687507108014,"action":"access map page"}
+{"level":30,"time":1687507123434,"action":"access search page"}
+{"level":30,"time":1687507129351,"action":" search on places that have as category religious and as activity worship  "}
+{"level":30,"time":1687507132141,"action":"search on places that have as activity ","idCity":"645e15ba385666e8ea9fc39e","cityName":"sousse"}
+{"level":30,"time":1687507141410,"action":"search on mahdia  "}
+{"level":30,"time":1687507144799,"action":"access sign in page"}
+{"level":30,"time":1687507152688,"action":"login","idUser":"64954e3e9b703cb58d14538d","userFullName":"mouhamed nasseri","nationality":"morocco"}
+{"level":30,"time":1687507152940,"action":"send places with categories","placeName":"the ribat of sousse","categoryName":"culturel"}
+{"level":30,"time":1687507152942,"action":"send places with categories","placeName":"the ribat of sousse","categoryName":"adventure"}
+{"level":30,"time":1687507152944,"action":"send places with categories","placeName":"dar essid museum","categoryName":"culturel"}
+{"level":30,"time":1687507152948,"action":"send places with categories","placeName":"port el kantaoui","categoryName":"adventure"}
+{"level":30,"time":1687507152949,"action":"send places with categories","placeName":"port el kantaoui","categoryName":"training"}
+{"level":30,"time":1687507152953,"action":"send places with categories","placeName":"skifa el kahla","categoryName":"culturel"}
+{"level":30,"time":1687507152957,"action":"send places with categories","placeName":"skifa el kahla","categoryName":"training"}
+{"level":30,"time":1687507152959,"action":"send places with categories","placeName":"zitouna mosque","categoryName":"culturel"}
+{"level":30,"time":1687507152965,"action":"send places with categories","placeName":"zitouna mosque","categoryName":"religious"}
+{"level":30,"time":1687507152970,"action":"send places with categories","placeName":"la galite islands","categoryName":"nature"}
+{"level":30,"time":1687507152977,"action":"send places with categories","placeName":"la galite islands","categoryName":"adventure"}
+{"level":30,"time":1687507152980,"action":"Top likes number 5","placeName":"dar essid museum","likesNumber":"5"}
+{"level":30,"time":1687507152986,"action":"send places with categories","placeName":"tabarka genoese fort","categoryName":"rural"}
+{"level":30,"time":1687507152994,"action":"send places with categories","placeName":"tabarka genoese fort","categoryName":"nature"}
+{"level":30,"time":1687507158728,"action":"delete dar essid museum from visited list ","idUser":"64954e3e9b703cb58d14538d","userFullName":"mouhamed nasseri","idPlace":"6474c012b1dea38fb6be409b","placeName":"dar essid museum"}
+{"level":30,"time":1687507162074,"action":"add the ribat of sousse to bucket list ","idUser":"64954e3e9b703cb58d14538d","userFullName":"mouhamed nasseri","idPlace":"6474c080b1dea38fb6be40be","placeName":"the ribat of sousse"}
+{"level":30,"time":1687507165092,"action":"add a rate to skifa el kahla page","idUser":"64954e3e9b703cb58d14538d","userFullName":"mouhamed nasseri","idPlace":"6474bf1bb1dea38fb6be4060","placeName":"skifa el kahla"}
+{"level":30,"time":1687507168435,"action":"add a rate to skifa el kahla page","idUser":"64954e3e9b703cb58d14538d","userFullName":"mouhamed nasseri","idPlace":"6474bf1bb1dea38fb6be4060","placeName":"skifa el kahla"}
+{"level":30,"time":1687507171176,"action":"access Dar Essid Museum page","idUser":"64954e3e9b703cb58d14538d","userFullName":"mouhamed nasseri","idPlace":"6474c012b1dea38fb6be409b","placeName":"dar essid museum"}
+{"level":30,"time":1687507176552,"action":"rate discover tour activity  dar essid museum  ","idUser":"64954e3e9b703cb58d14538d","userFullName":"mouhamed nasseri","idPlace":"64954e3e9b703cb58d14538d","placeName":"dar essid museum","idActivity":"646f490b85984bddf63bc7c5","activityName":"discover tour"}
+{"level":30,"time":1687507188486,"action":"add comments to dar essid museum  ","idUser":"64954e3e9b703cb58d14538d","userFullName":"mouhamed nasseri","idPlace":"64954e3e9b703cb58d14538d","placeName":"dar essid museum"}
+{"level":30,"time":1687507195347,"action":"access profile page","idUser":"64954e3e9b703cb58d14538d","userFullName":"mouhamed nasseri"}
+{"level":30,"time":1687507209402,"action":"save changes nationality  ","idUser":"64954e3e9b703cb58d14538d","userFullName":"mouhamed nasseri"}
+{"level":30,"time":1687507217876,"action":"add the ribat of sousse to visited list ","idUser":"64954e3e9b703cb58d14538d","userFullName":"mouhamed nasseri","idPlace":"6474c080b1dea38fb6be40be","placeName":"the ribat of sousse"}
+{"level":30,"time":1687508973036,"action":"send places with categories","placeName":"the ribat of sousse","categoryName":"adventure"}
+{"level":30,"time":1687508973038,"action":"send places with categories","placeName":"the ribat of sousse","categoryName":"culturel"}
+{"level":30,"time":1687508973040,"action":"send places with categories","placeName":"dar essid museum","categoryName":"culturel"}
+{"level":30,"time":1687508973042,"action":"send places with categories","placeName":"port el kantaoui","categoryName":"training"}
+{"level":30,"time":1687508973045,"action":"send places with categories","placeName":"port el kantaoui","categoryName":"adventure"}
+{"level":30,"time":1687508973052,"action":"send places with categories","placeName":"skifa el kahla","categoryName":"culturel"}
+{"level":30,"time":1687508973055,"action":"send places with categories","placeName":"skifa el kahla","categoryName":"training"}
+{"level":30,"time":1687508973057,"action":"send places with categories","placeName":"zitouna mosque","categoryName":"religious"}
+{"level":30,"time":1687508973060,"action":"send places with categories","placeName":"zitouna mosque","categoryName":"culturel"}
+{"level":30,"time":1687508973061,"action":"Top likes number 5","placeName":"dar essid museum","likesNumber":"5"}
+{"level":30,"time":1687508973063,"action":"send places with categories","placeName":"la galite islands","categoryName":"nature"}
+{"level":30,"time":1687508973064,"action":"send places with categories","placeName":"la galite islands","categoryName":"adventure"}
+{"level":30,"time":1687508973065,"action":"send places with categories","placeName":"tabarka genoese fort","categoryName":"rural"}
+{"level":30,"time":1687508973070,"action":"send places with categories","placeName":"tabarka genoese fort","categoryName":"nature"}
+{"level":30,"time":1687515219954,"action":"send places with categories","placeName":"the ribat of sousse","categoryName":"culturel"}
+{"level":30,"time":1687515219958,"action":"send places with categories","placeName":"the ribat of sousse","categoryName":"adventure"}
+{"level":30,"time":1687515219969,"action":"send places with categories","placeName":"port el kantaoui","categoryName":"adventure"}
+{"level":30,"time":1687515219971,"action":"send places with categories","placeName":"dar essid museum","categoryName":"culturel"}
+{"level":30,"time":1687515219972,"action":"send places with categories","placeName":"port el kantaoui","categoryName":"training"}
+{"level":30,"time":1687515219974,"action":"send places with categories","placeName":"skifa el kahla","categoryName":"culturel"}
+{"level":30,"time":1687515219984,"action":"send places with categories","placeName":"skifa el kahla","categoryName":"training"}
+{"level":30,"time":1687515219985,"action":"send places with categories","placeName":"zitouna mosque","categoryName":"culturel"}
+{"level":30,"time":1687515219988,"action":"send places with categories","placeName":"zitouna mosque","categoryName":"religious"}
+{"level":30,"time":1687515219990,"action":"send places with categories","placeName":"la galite islands","categoryName":"nature"}
+{"level":30,"time":1687515219991,"action":"Top likes number 5","placeName":"dar essid museum","likesNumber":"5"}
+{"level":30,"time":1687515219993,"action":"send places with categories","placeName":"la galite islands","categoryName":"adventure"}
+{"level":30,"time":1687515219995,"action":"send places with categories","placeName":"tabarka genoese fort","categoryName":"rural"}
+{"level":30,"time":1687515219999,"action":"send places with categories","placeName":"tabarka genoese fort","categoryName":"nature"}
+{"level":30,"time":1687515223846,"action":"access Dar Essid Museum page","idUser":"64954e3e9b703cb58d14538d","userFullName":"mouhamed nasseri","idPlace":"6474c012b1dea38fb6be409b","placeName":"dar essid museum"}
+{"level":30,"time":1687515225725,"action":"send places with categories","placeName":"the ribat of sousse","categoryName":"culturel"}
+{"level":30,"time":1687515225729,"action":"send places with categories","placeName":"the ribat of sousse","categoryName":"adventure"}
+{"level":30,"time":1687515225734,"action":"send places with categories","placeName":"dar essid museum","categoryName":"culturel"}
+{"level":30,"time":1687515225738,"action":"send places with categories","placeName":"port el kantaoui","categoryName":"training"}
+{"level":30,"time":1687515225742,"action":"send places with categories","placeName":"port el kantaoui","categoryName":"adventure"}
+{"level":30,"time":1687515225747,"action":"send places with categories","placeName":"skifa el kahla","categoryName":"training"}
+{"level":30,"time":1687515225751,"action":"send places with categories","placeName":"skifa el kahla","categoryName":"culturel"}
+{"level":30,"time":1687515225755,"action":"send places with categories","placeName":"zitouna mosque","categoryName":"culturel"}
+{"level":30,"time":1687515225760,"action":"Top likes number 5","placeName":"dar essid museum","likesNumber":"5"}
+{"level":30,"time":1687515225766,"action":"send places with categories","placeName":"zitouna mosque","categoryName":"religious"}
+{"level":30,"time":1687515225770,"action":"send places with categories","placeName":"la galite islands","categoryName":"nature"}
+{"level":30,"time":1687515225773,"action":"send places with categories","placeName":"la galite islands","categoryName":"adventure"}
+{"level":30,"time":1687515225777,"action":"send places with categories","placeName":"tabarka genoese fort","categoryName":"nature"}
+{"level":30,"time":1687515225782,"action":"send places with categories","placeName":"tabarka genoese fort","categoryName":"rural"}
+{"level":30,"time":1687515226909,"action":"access The Ribat of Sousse page","idUser":"64954e3e9b703cb58d14538d","userFullName":"mouhamed nasseri","idPlace":"6474c080b1dea38fb6be40be","placeName":"the ribat of sousse"}
+{"level":30,"time":1687515287165,"action":"send places with categories","placeName":"the ribat of sousse","categoryName":"culturel"}
+{"level":30,"time":1687515287166,"action":"send places with categories","placeName":"dar essid museum","categoryName":"culturel"}
+{"level":30,"time":1687515287167,"action":"send places with categories","placeName":"the ribat of sousse","categoryName":"adventure"}
+{"level":30,"time":1687515287168,"action":"send places with categories","placeName":"port el kantaoui","categoryName":"training"}
+{"level":30,"time":1687515287169,"action":"send places with categories","placeName":"port el kantaoui","categoryName":"adventure"}
+{"level":30,"time":1687515287175,"action":"send places with categories","placeName":"skifa el kahla","categoryName":"training"}
+{"level":30,"time":1687515287176,"action":"send places with categories","placeName":"skifa el kahla","categoryName":"culturel"}
+{"level":30,"time":1687515287178,"action":"send places with categories","placeName":"zitouna mosque","categoryName":"religious"}
+{"level":30,"time":1687515287181,"action":"send places with categories","placeName":"zitouna mosque","categoryName":"culturel"}
+{"level":30,"time":1687515287186,"action":"send places with categories","placeName":"la galite islands","categoryName":"nature"}
+{"level":30,"time":1687515287188,"action":"send places with categories","placeName":"tabarka genoese fort","categoryName":"rural"}
+{"level":30,"time":1687515287191,"action":"Top likes number 5","placeName":"dar essid museum","likesNumber":"5"}
+{"level":30,"time":1687515287192,"action":"send places with categories","placeName":"la galite islands","categoryName":"adventure"}
+{"level":30,"time":1687515287196,"action":"send places with categories","placeName":"tabarka genoese fort","categoryName":"nature"}

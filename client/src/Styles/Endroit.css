@@ -1,0 +1,64 @@
+/* 
+
+.our-card-top {
+  position: relative;
+}
+
+
+ .listitem {
+  display: flex;
+  align-items: center;
+}
+
+i {
+  margin-right: 0.5rem;
+}
+
+ .create-city{
+     width: 60%;
+     margin: 0 auto;
+ }
+ .card.slick-dots{
+      bottom: -120px;
+ }
+
+.our-custom-input {
+  position: absolute;
+  top:-70px;
+  bottom: 10px;
+  left: -140px;
+  right: 0;
+  background-color: rgba(52, 60, 134, 0.65);
+}
+
+.img{
+  width: 90px;
+  width: 90px;
+}
+
+.image{
+  height:180px;
+  width: 100%;
+}
+
+.input,
+
+.label {
+  width: 100%;
+  border-radius: 10px;
+  border: 1px solid var(--gray-color);
+  font-size: 21px;
+  padding: 10px;
+  margin: 5px 0;
+}
+
+.slick-list{
+  height: 700px;
+}  
+
+.slick-slider.placeList-slick-slider {
+  width: 1300px;
+   margin-top: 0; 
+}
+
+*/

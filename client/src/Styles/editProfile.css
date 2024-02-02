@@ -1,0 +1,246 @@
+.editRigthBar{
+    height: auto;
+    grid-column-start: 2;
+    grid-column-end: 3;
+    border-radius: 30px;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    box-shadow:7px 7px 19px rgba(55, 54, 54, 0.25);
+
+}
+.headerEdit{
+    display: flex;
+    width: 100%;
+    box-shadow:7px 7px 19px rgba(55, 54, 54, 0.25);
+    height: 10%;
+    align-items: center;
+    padding: 2%;
+    border-radius: 30px;
+}
+.titlePage{
+    margin-left: 1%;
+}
+
+
+.bodyEdit{
+    height: auto;
+    width: 100%;
+    border: 1px solid ghostwhite;
+    margin-top: 2%;
+    padding: 2%;
+    box-shadow:7px 7px 19px rgba(55, 54, 54, 0.25);
+    position: relative;
+
+}
+.editPhoto{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10%;
+    position: relative;
+    padding: 10px;
+    justify-content: flex-start;
+    align-items: center;
+}
+.photoConatinerEdit{
+    height: 25vh;
+    width: 25vh;
+    min-width: 10%;
+    border-radius: 50%;
+    transform: translateX(10%);
+    position:relative;
+    border: 4px solid white;
+    background-color: white;
+}
+.userPhotoEdit{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    border-radius: 50%;
+}
+.buttonsPH{
+    display: flex;
+    flex-direction: column;
+    gap: 10%;
+    justify-content: space-between;
+    align-items: center;
+    width: 20vh;
+    margin: 10px;
+   height: auto;
+}
+.buttonsPH button{
+    margin: 10%;
+    height: 5vh;
+    width: 15vh;
+    border-radius: 30px;
+    border: 1px solid #cccccc;
+    background-color: #C0C0C0;
+}
+label.label input[type="file"] {
+    position: absolute;
+    top: -1000px;
+}
+.label {
+    height: 5vh;
+    width: 15vh;
+    cursor: pointer;
+    border: 1px solid #cccccc;
+    border-radius: 30px;
+    padding: 5px 15px;
+    margin: 5px;
+    display: inline-block;
+    background-color: #C0C0C0;
+  }
+.label span {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #000000;
+}
+.label:active {
+    background: #9fa1a0;
+}
+.label:invalid+span {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #000000;
+}
+.label:valid+span {
+    color: #ffffff;
+}
+
+
+
+.listEdit{
+    width: 50%;
+    height: auto;
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    padding: 2%;
+    background-color: #C0C0C0;
+    border-radius: 30px;
+    box-shadow:7px 7px 19px rgba(55, 54, 54, 0.25);
+
+}
+
+
+.listEdit li{
+    list-style-type:none;
+}
+.listEdit li input{
+    border: none;
+    border-bottom:  2px solid black;
+    background-color: transparent;
+    outline: none;
+}
+
+
+.fullName{
+    display: flex;
+    flex-wrap: wrap;   
+    gap: 10%;
+    width: 100%;
+    padding: 10px;
+}
+.fname{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+.lname{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+
+
+
+
+.editAgeNAt{
+    display: flex;
+    flex-wrap: wrap;   
+    gap: 10%;
+    width: 100%;
+    padding: 10px;
+     
+}
+.editNationality{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    gap: 20px;
+   
+}
+.editAge{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    gap: 20px;
+   
+}
+
+.AddrPhone{
+    display: flex;
+    flex-wrap: wrap;   
+    gap: 10%;
+    width: 100%;
+    padding: 10px;
+}
+.AdressP{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+.phone{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+.footerEdit{
+    width: 50%;
+    margin: 10px;
+    display: flex;
+    margin-top: 30px;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+
+.btnEdit{
+    height: 5vh;
+    width: 15vh;
+    margin-left:5px ;
+    border-radius:10px;
+    background-color:#16354D  ;
+    color: white;
+    
+    
+}
+.btnEdit:hover{
+    
+    background-color: white ;
+    color: #16354D;
+    border: 1px solid #16354D ;
+    transition: all 0.7s ease;
+}
+
+
+.bucketListContent{
+    padding: 10px;
+    padding-top: 50px;
+}
+.bucketList-map-content{
+    display: flex;
+    flex-wrap: wrap;
+}

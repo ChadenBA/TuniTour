@@ -1,0 +1,210 @@
+.all-profile-user {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.User-profile-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: auto;
+  padding: 10px;
+  width: 100%;
+  flex-wrap: nowrap;
+}
+
+.rigth-bar-user {
+  height: auto;
+  width: 50vh;
+  margin: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.rigth-bar-top-user {
+  height: 40vh;
+  width: 100%;
+  margin: 10px;
+  box-shadow: 7px 5px 8px rgba(55, 54, 54, 0.25);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.photo-conatiner-user {
+  height: 50%;
+  width: 40%;
+  border-radius: 50%;
+  position: relative;
+}
+
+.user-photo-profile {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+  border-radius: 50%;
+  border: 5px solid rgb(94, 116, 241);
+}
+
+.rigth-user-name-container {
+  height: 17vh;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  font-size: 25px;
+}
+
+.rigth-bar-bottom-user {
+  height: 24vh;
+  width: 100%;
+  box-shadow: 7px 5px 8px rgba(55, 54, 54, 0.25);
+  padding: 10%;
+
+}
+
+.left-bar-user {
+  height: 61vh;
+  width: 100vh;
+  box-shadow: 7px 5px 8px rgba(55, 54, 54, 0.25);
+  padding: 15px;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-direction: column;
+  gap: 25px;
+
+}
+
+table {
+  border-collapse: collapse;
+  width: 90%;
+}
+
+table th,
+table td {
+  border: none;
+  border-bottom: 2px solid #ddd;
+  padding: 15px;
+  text-align: left;
+}
+
+.left-user-edit,
+.update-user-profile-bouton {
+  width: 14vh;
+  height: 5vh;
+  border-radius: 10px;
+  border: none;
+  font-size: 18px;
+  margin-left: 10px;
+}
+
+.left-user-edit:hover,
+.update-user-profile-bouton:hover {
+  background-color: rgb(135, 206, 235);
+  color: white;
+}
+
+.custom-file-upload {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  border-radius: 4px;
+  border: none;
+  font-size: 16px;
+  background-color: #F0F0F2;
+  margin: 10px;
+  width: 14vh;
+  height: 5vh;
+  border-radius: 10px;
+  border: none;
+  font-size: 18px;
+}
+
+.custom-file-upload input[type="file"] {
+  display: none;
+}
+
+.custom-file-upload:hover {
+  background-color: rgb(135, 206, 235);
+  color: white;
+  cursor: pointer;
+}
+
+.custom-file-upload label {
+  margin-top: 10px;
+}
+
+.bio-edit-user {
+  width: 40vh;
+  border: 2px solid #ddd;
+}
+
+.bio-edit-user:hover {
+  width: 40vh;
+  border: 3px solid #ddd;
+}
+
+.bio-edit-user:focus {
+  width: 40vh;
+  border: 3px solid #ddd;
+}
+
+table input {
+  border: none;
+  height: 30px;
+}
+
+.navigate-user-update {
+  height: 10vh;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.navigate-user-update button {
+  height: 6vh;
+  font-size: 20px;
+  border: none;
+  outline: none;
+  text-align: start;
+  background-color: transparent;
+  color: #696969;
+  margin: 10px;
+}
+
+.navigate-user-update button:hover {
+  background-color: transparent;
+  border: none;
+  outline: none;
+}
+
+.user-profile-content-list {
+  height: auto;
+  width: 100%;
+  padding: 25px;
+  padding-left: 10%;
+  padding-right: 10%;
+}
+
+.list-user-content {
+  background-color: #F0F0F2;
+  height: auto;
+  margin: 10px;
+  padding-top: 2px;
+  padding-left: 2px;
+}
+
+@media screen and (max-width :1050px) {
+  .User-profile-container {
+    flex-wrap: wrap;
+  }
+}

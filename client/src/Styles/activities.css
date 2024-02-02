@@ -1,0 +1,358 @@
+html {
+  scroll-behavior: smooth;
+}
+
+.activities-header h1 {
+  margin-bottom: 2%;
+}
+
+.activities-header p {
+  font-size: 20px;
+  margin-top: 10px;
+  font-family: Signika;
+  margin-left: 30px;
+  margin-right: 30px;
+}
+
+.activities-header span {
+  color: steelblue;
+  font-weight: 100;
+}
+
+.print-activities-container {
+  display: flex;
+  width: 100%;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  padding-left: 10%;
+  padding-right: 10%;
+  margin: 0;
+  gap: 30px;
+  padding: 25px;
+}
+
+.rating-in-activity-page {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: 2%;
+}
+
+.ReviewsRateAct {
+  font-size: 20px;
+
+}
+
+/*********************************************************************************************************************************************************************/
+/****************************activities card home page **************************************/
+.card-box-activity {
+  user-select: none;
+  padding: 20px;
+  width: 40vh;
+  height: 35vh;
+  background-color: rgb(255, 255, 255);
+  box-shadow: 1px 7px 7px rgba(0, 0, 0, 0.3);
+
+}
+
+.card-activity {
+  width: auto;
+  height: auto;
+  border-radius: 25px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.swiper,
+.swiper-container {
+  padding-left: 40px;
+  padding-bottom: 8px;
+  padding-right: 45px;
+}
+
+.btn-categories .swiper,
+.swiper-container {
+  padding: 0px;
+}
+
+.card-activity img {
+  width: 97%;
+  height: 20vh;
+  object-fit: cover;
+  min-height: 15vh;
+  transition: all 0.5s ease;
+}
+
+.card-activity .card-content-activity {
+  margin-top: 6%;
+  border-bottom: 2px solid dimgrey;
+  line-height: 1.2rem;
+  font-weight: 500;
+  font-size: 20px;
+  width: 100%;
+  padding: 14px;
+  text-align: center;
+
+}
+
+/*********************************************************************************************************************************************************************/
+/****************************activities card **************************************/
+.Header-activity-container {
+  height: 50vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.activity-content-header {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  margin-left: 5%;
+  margin-right: 5%;
+  font-family: Signika;
+}
+
+.activity-content-header h1 {
+  margin: 2% 2%;
+  text-transform: capitalize;
+}
+
+.activity-content-header p {
+  margin: 5%;
+  margin-bottom: 2%;
+  margin-top: 0;
+}
+
+.activity-places-card-conatiner {
+  margin-left: 4%;
+  margin-right: 4%;
+  margin-top: 3%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.activity-places-card-conatiner h4 {
+  margin-left: 5%;
+  margin-bottom: 25px;
+}
+
+.activity-places-card {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
+
+.activity-places-card-rate {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.span-activity-places-card-rate {
+  padding: 15px;
+  margin: 5px;
+  box-shadow: 0px 7px 7px rgba(0, 0, 0, 0.3);
+  background-color: aliceblue;
+}
+
+.tableDiv-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 5%;
+}
+
+.tabelDiv {
+  width: 60vh;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th,
+td {
+  padding: 10px;
+  text-align: left;
+  border: 1px solid black;
+}
+
+.td-center {
+  text-align: center;
+}
+
+@media screen and (max-width :1610px) {
+  .activity-places-card {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+  }
+}
+
+
+
+
+
+
+
+/**********************************************************************************************************************************************************************************/
+/**********************************Activities Admin ************************************/
+.activity-card-image {
+  object-fit: fill;
+  padding: 0;
+  width: 350px;
+}
+
+.activity-list {
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 20px;
+}
+
+.create-activity-section {
+  background-image: none;
+  width: 30%;
+  margin: 0 auto;
+  padding: 10px;
+  margin-top: 500px;
+  margin-right: -10px;
+}
+
+.slick-list {
+  height: 500px;
+}
+
+.slick-dots {
+  bottom: -430px;
+}
+
+.slick-slider.activity-slick-slider {
+  width: 1300px;
+  margin-top: 0;
+}
+
+.card {
+  height: 450px;
+  width: 300px;
+}
+
+/* Add these CSS styles to your existing stylesheets or create a new CSS file */
+
+.create-activity-modal-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(11, 59, 94, 0.5);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.modal {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: rgba(254, 126, 126, 0.7);
+  transition: all 0.4s;
+  opacity: 0;
+}
+
+.modal-close {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  border: none;
+  background: none;
+  font-size: 20px;
+  cursor: pointer;
+}
+
+.modal-close:hover {
+  color: red;
+}
+
+.create-activity-btn {
+  border: none;
+  border-radius: 6px;
+  height: 40px;
+  width: 20%;
+  margin-left: 80%;
+  background-color: #7CBDFA;
+}
+
+.create-activity-btn:hover {
+  background-color: #6bb2f5;
+  border-color: #6bb2f5;
+}
+
+.create-activity-form {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: rgb(238, 238, 238);
+  padding: 30px;
+  border-radius: 8px;
+  width: 650px;
+}
+
+.create-activity-input,
+.create-activity-upload,
+.create-activity-textarea {
+  width: 100%;
+  border-radius: 10px;
+  border: 1px solid #0B3B5E;
+  font-size: 21px;
+  padding: 10px;
+  margin: 5px 0;
+}
+
+textarea {
+  resize: none;
+}
+
+.create-activity-upload {
+  background-color: rgba(11, 59, 94, 0.9);
+}
+
+
+.create-activities-btn {
+  border: none;
+  border-radius: 20px;
+  height: 40px;
+  width: 80%;
+  margin-left: 10%;
+  margin-top: 20px;
+  background: linear-gradient(to right, #0B3B5E, #0981cc);
+  color: white;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.create-activities-btn:hover {
+  background: linear-gradient(to right, #537fa1, #003B5E);
+  border-color: #0A2C46;
+}
+
+
+/* Adjust the styles as per your requirement */

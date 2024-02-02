@@ -1,0 +1,159 @@
+@import url('https://fonts.googleapis.com/css2?family=Lancelot&display=swap');
+.navBar{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height:12vh;
+  width: 100%;
+  border-bottom: 7px solid  rgb(135,206,235);
+}
+
+.logo{
+  cursor: pointer;
+  background-color: transparent;
+  width: auto;
+  min-width: 20vh;
+  margin-left: 7%;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-end;
+}
+
+.logo h3{
+  font-size: 30px;
+  font-family: lancelot; 
+  cursor: pointer;
+  background-color: transparent;
+  height: auto;
+}
+.logo-img{
+  height: 9vh;
+  width: 7vh;
+  background-image: url('../Styles/images/TuniTour-removebg-preview.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.links{
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  font-family: Arial, Helvetica, sans-serif;
+  align-items: flex-end; 
+}
+
+.links_child{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  height: 8vh;
+  padding: 10px;
+}
+
+.links_child span{
+  color: black;
+  font-size: 18px;
+  font-weight: 400;
+  padding: 10px;
+}
+.links_child:hover span {
+  color: white;
+}
+.links_child:hover{
+  background-color: rgb(135,206,235);
+  color: white;
+  border-radius: 5%;
+  height: 100%;
+}
+ .btnLogOut{
+  color: black;
+  font-size: 15px;
+  border: none;
+  background-color: transparent;
+} 
+.btnLogOut:hover{ 
+    background-color: transparent;
+} 
+.box-search{
+  height: 40px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgb(135,206,235);
+  border-radius: 50%;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.3);
+  width: 5vh;
+  color: white;
+  margin-bottom: 12px;
+  margin-right: 15px;
+}
+.mobile-menu-icon{
+ display: none;
+    
+}
+@media screen and (max-width :1250px) {
+  .navBar{
+    padding: 25px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height:auto;
+    width: 100%;
+    box-shadow:7px 5px 8px rgba(55, 54, 54, 0.25);
+    margin-top: 1%;
+    position: relative;
+    border-bottom: 10px solid  rgb(135,206,235);
+  }
+  .mobile-menu-icon{
+    position: absolute;
+    font-size: 30px;
+    border: none;
+    outline: none;
+    right: 25px;
+    background-color: transparent;
+    color: black;
+    display: block;
+  }
+  .mobile-menu-icon:hover{
+    background-color: transparent;
+  }
+  .nav-Links{
+    display: none;
+  }
+  .nav-Links-mobile{
+    display: block;
+    flex-direction: column;
+    position:relative;
+    height: auto;
+    width: 100%;
+  }
+  .links {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  .links_child{
+    color: black;
+    text-align: center;
+    padding: 32px;
+    width: 100%;
+    border-radius: 0px;
+    transition: all 0.5 ease-in-out;
+  }
+  .links_child span{
+    color: black;
+    text-align: center;
+  }
+  .links:hover span:hover{
+    color: white;
+  }
+  .links_child:hover{
+    border-radius: 0px;
+  }
+}  
